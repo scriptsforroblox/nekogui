@@ -1,0 +1,4218 @@
+
+
+local ScreenGui = Instance.new("ScreenGui")
+local Main = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local ImageLabel = Instance.new("ImageLabel")
+local UICorner = Instance.new("UICorner")
+local TextLabel_2 = Instance.new("TextLabel")
+local ScrollingFrame = Instance.new("ScrollingFrame")
+local Frame = Instance.new("Frame")
+local WhiteNekoimprovedV2 = Instance.new("TextButton")
+local TemplateNekoEdit = Instance.new("TextButton")
+local Empty = Instance.new("TextButton")
+local BlackWaifu = Instance.new("TextButton")
+local Aesthic = Instance.new("TextButton")
+local YouravatarRose = Instance.new("TextButton")
+local CerberusNeko = Instance.new("TextButton")
+local _123jl123 = Instance.new("TextButton")
+local Banganeko = Instance.new("TextButton")
+local Bunnygirl = Instance.new("TextButton")
+local BoiShesThicc = Instance.new("TextButton")
+local MommyNEko = Instance.new("TextButton")
+local SchoolGirlNeko = Instance.new("TextButton")
+local Nekodj = Instance.new("TextButton")
+local Calmdemonfurry = Instance.new("TextButton")
+local CozyNeko = Instance.new("TextButton")
+local CleanNeko = Instance.new("TextButton")
+local BunnyNeko = Instance.new("TextButton")
+local BabyBlue = Instance.new("TextButton")
+local AnimeNeko = Instance.new("TextButton")
+local PattoharoNeko = Instance.new("TextButton")
+local Furrzzie = Instance.new("TextButton")
+local EGirl = Instance.new("TextButton")
+local Waifu = Instance.new("TextButton")
+local VND = Instance.new("TextButton")
+local Kitty = Instance.new("TextButton")
+local Alice = Instance.new("TextButton")
+local BlackandBlueNeko = Instance.new("TextButton")
+local GreenNekobutLooksCool = Instance.new("TextButton")
+local CleanNekobutWhat = Instance.new("TextButton")
+local Jotaro = Instance.new("TextButton")
+local BlackNekoCasual = Instance.new("TextButton")
+local CuteBlueMaid = Instance.new("TextButton")
+local EniTheFurry = Instance.new("TextButton")
+local Angel = Instance.new("TextButton")
+local CutePinkNeko = Instance.new("TextButton")
+local Empty_2 = Instance.new("TextButton")
+local Empty_3 = Instance.new("TextButton")
+local StrawberryCow = Instance.new("TextButton")
+local Garcello = Instance.new("TextButton")
+local ZeroTew = Instance.new("TextButton")
+local idkwhattonamethislol = Instance.new("TextButton")
+local MoonBlue = Instance.new("TextButton")
+local Moonred = Instance.new("TextButton")
+local Moon = Instance.new("TextButton")
+local MaidNeko2 = Instance.new("TextButton")
+local MaidNeko3 = Instance.new("TextButton")
+local MaidNeko = Instance.new("TextButton")
+local CuteNeko = Instance.new("TextButton")
+local MaidFnfGF = Instance.new("TextButton")
+local CuteBlueMaid_2 = Instance.new("TextButton")
+local MaidCommander = Instance.new("TextButton")
+local SwatNekoP = Instance.new("TextButton")
+local NekoKiller = Instance.new("TextButton")
+local BearNeko = Instance.new("TextButton")
+local WhiteNeko = Instance.new("TextButton")
+local Nekobutsomethingaintright = Instance.new("TextButton")
+local Puro = Instance.new("TextButton")
+local Pilot = Instance.new("TextButton")
+local PartyNekoCasual = Instance.new("TextButton")
+local MaleNeko = Instance.new("TextButton")
+local Ankha = Instance.new("TextButton")
+local Protogen = Instance.new("TextButton")
+local RedFurrzzie = Instance.new("TextButton")
+local NekogotDrip = Instance.new("TextButton")
+local BunnyGirlSenpai = Instance.new("TextButton")
+local Military = Instance.new("TextButton")
+local KangSaebyeok = Instance.new("TextButton")
+local SafeTemplateNeko = Instance.new("TextButton")
+local MommyNeko = Instance.new("TextButton")
+local Empty_4 = Instance.new("TextButton")
+local Empty_5 = Instance.new("TextButton")
+local Empty_6 = Instance.new("TextButton")
+local Empty_7 = Instance.new("TextButton")
+local Empty_8 = Instance.new("TextButton")
+local Empty_9 = Instance.new("TextButton")
+local Frame_2 = Instance.new("Frame")
+local R6 = Instance.new("TextButton")
+local UICorner_2 = Instance.new("UICorner")
+local Circle = Instance.new("ImageLabel")
+local Circle_2 = Instance.new("ImageLabel")
+local Respawn = Instance.new("TextButton")
+local Circle_3 = Instance.new("ImageLabel")
+local UICorner_3 = Instance.new("UICorner")
+local TargetSpawner = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
+local NekoControlsGUI = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
+local TextLabel_3 = Instance.new("TextLabel")
+local TextLabel_4 = Instance.new("TextLabel")
+local OpenClose = Instance.new("TextButton")
+local UICorner_6 = Instance.new("UICorner")
+
+--Properties:
+
+ScreenGui.Parent = game.StarterGui.MainModule
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+Main.Name = "Main"
+Main.Parent = ScreenGui
+Main.BackgroundColor3 = Color3.fromRGB(144, 33, 255)
+Main.Position = UDim2.new(0.493243665, 0, 0.100905344, 0)
+Main.Size = UDim2.new(0, 442, 0, 129)
+
+TextLabel.Parent = Main
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.Position = UDim2.new(0.0173496567, 0, 0, 0)
+TextLabel.Size = UDim2.new(0, 417, 0, 30)
+TextLabel.Font = Enum.Font.SourceSans
+TextLabel.Text = "neko gui"
+TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.TextSize = 60.000
+TextLabel.TextWrapped = true
+
+ImageLabel.Parent = Main
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 1.000
+ImageLabel.Position = UDim2.new(0.0113122175, 0, 0.45059523, 0)
+ImageLabel.Size = UDim2.new(0, 140, 0, 56)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=7746645535"
+ImageLabel.ScaleType = Enum.ScaleType.Crop
+
+UICorner.CornerRadius = UDim.new(0.150000006, 0)
+UICorner.Parent = Main
+
+TextLabel_2.Parent = Main
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundTransparency = 1.000
+TextLabel_2.Position = UDim2.new(0.00846545212, 0, 0.66143471, 0)
+TextLabel_2.Size = UDim2.new(0, 432, 0, 32)
+TextLabel_2.Font = Enum.Font.SourceSans
+TextLabel_2.Text = ""
+TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_2.TextSize = 20.000
+TextLabel_2.TextWrapped = true
+
+ScrollingFrame.Parent = Main
+ScrollingFrame.Active = true
+ScrollingFrame.BackgroundColor3 = Color3.fromRGB(255, 158, 238)
+ScrollingFrame.BackgroundTransparency = 0.400
+ScrollingFrame.Position = UDim2.new(0.00861065183, 0, 0.929006994, 0)
+ScrollingFrame.Size = UDim2.new(0, 345, 0, 292)
+ScrollingFrame.CanvasSize = UDim2.new(0, 0, 10, 0)
+
+Frame.Parent = ScrollingFrame
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BackgroundTransparency = 1.000
+Frame.Size = UDim2.new(0, 345, 0, 426)
+
+WhiteNekoimprovedV2.Name = "White Neko (improved) V2"
+WhiteNekoimprovedV2.Parent = Frame
+WhiteNekoimprovedV2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WhiteNekoimprovedV2.Position = UDim2.new(0.00995067693, 0, -0.00898749847, 0)
+WhiteNekoimprovedV2.Size = UDim2.new(0, 89, 0, 68)
+WhiteNekoimprovedV2.Style = Enum.ButtonStyle.RobloxRoundButton
+WhiteNekoimprovedV2.Font = Enum.Font.SourceSansSemibold
+WhiteNekoimprovedV2.Text = "White Neko (improved) V2"
+WhiteNekoimprovedV2.TextColor3 = Color3.fromRGB(0, 0, 0)
+WhiteNekoimprovedV2.TextScaled = true
+WhiteNekoimprovedV2.TextSize = 14.000
+WhiteNekoimprovedV2.TextWrapped = true
+
+TemplateNekoEdit.Name = "Template Neko Edit"
+TemplateNekoEdit.Parent = Frame
+TemplateNekoEdit.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TemplateNekoEdit.Position = UDim2.new(0.260471523, 0, -0.00507566053, 0)
+TemplateNekoEdit.Size = UDim2.new(0, 85, 0, 66)
+TemplateNekoEdit.Style = Enum.ButtonStyle.RobloxRoundButton
+TemplateNekoEdit.Font = Enum.Font.SourceSansSemibold
+TemplateNekoEdit.Text = "Template Neko"
+TemplateNekoEdit.TextColor3 = Color3.fromRGB(0, 0, 0)
+TemplateNekoEdit.TextScaled = true
+TemplateNekoEdit.TextSize = 14.000
+TemplateNekoEdit.TextWrapped = true
+
+Empty.Name = "Empty"
+Empty.Parent = Frame
+Empty.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Empty.Position = UDim2.new(0.261432052, 0, 1.3384198, 0)
+Empty.Size = UDim2.new(0, 89, 0, 66)
+Empty.Style = Enum.ButtonStyle.RobloxRoundButton
+Empty.Font = Enum.Font.SourceSansSemibold
+Empty.Text = "Empty"
+Empty.TextColor3 = Color3.fromRGB(0, 0, 0)
+Empty.TextScaled = true
+Empty.TextSize = 14.000
+Empty.TextWrapped = true
+
+BlackWaifu.Name = "Black Waifu"
+BlackWaifu.Parent = Frame
+BlackWaifu.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BlackWaifu.Position = UDim2.new(0.744529486, 0, -0.00321122282, 0)
+BlackWaifu.Size = UDim2.new(0, 81, 0, 65)
+BlackWaifu.Style = Enum.ButtonStyle.RobloxRoundButton
+BlackWaifu.Font = Enum.Font.SourceSansSemibold
+BlackWaifu.Text = "Black Waifu"
+BlackWaifu.TextColor3 = Color3.fromRGB(0, 0, 0)
+BlackWaifu.TextScaled = true
+BlackWaifu.TextSize = 14.000
+BlackWaifu.TextWrapped = true
+
+Aesthic.Name = "Aesthic"
+Aesthic.Parent = Frame
+Aesthic.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Aesthic.Position = UDim2.new(0.00829759706, 0, 0.147579432, 0)
+Aesthic.Size = UDim2.new(0, 89, 0, 66)
+Aesthic.Style = Enum.ButtonStyle.RobloxRoundButton
+Aesthic.Font = Enum.Font.SourceSansSemibold
+Aesthic.Text = "Aesthic"
+Aesthic.TextColor3 = Color3.fromRGB(0, 0, 0)
+Aesthic.TextScaled = true
+Aesthic.TextSize = 3.000
+Aesthic.TextWrapped = true
+
+YouravatarRose.Name = "Your avatar Rose"
+YouravatarRose.Parent = Frame
+YouravatarRose.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+YouravatarRose.Position = UDim2.new(0.260471523, 0, 0.147492245, 0)
+YouravatarRose.Size = UDim2.new(0, 85, 0, 66)
+YouravatarRose.Style = Enum.ButtonStyle.RobloxRoundButton
+YouravatarRose.Font = Enum.Font.SourceSansSemibold
+YouravatarRose.Text = "Your avatar Rose"
+YouravatarRose.TextColor3 = Color3.fromRGB(0, 0, 0)
+YouravatarRose.TextScaled = true
+YouravatarRose.TextSize = 14.000
+YouravatarRose.TextWrapped = true
+
+CerberusNeko.Name = "Cerberus Neko"
+CerberusNeko.Parent = Frame
+CerberusNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CerberusNeko.Position = UDim2.new(0.505930126, 0, 0.150636911, 0)
+CerberusNeko.Size = UDim2.new(0, 82, 0, 64)
+CerberusNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+CerberusNeko.Font = Enum.Font.SourceSansSemibold
+CerberusNeko.Text = "Cerberus Neko"
+CerberusNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+CerberusNeko.TextScaled = true
+CerberusNeko.TextSize = 14.000
+CerberusNeko.TextWrapped = true
+
+_123jl123.Name = "123jl123"
+_123jl123.Parent = Frame
+_123jl123.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_123jl123.Position = UDim2.new(0.759982705, 0, 2.1741004, 0)
+_123jl123.Size = UDim2.new(0, 84, 0, 66)
+_123jl123.Style = Enum.ButtonStyle.RobloxRoundButton
+_123jl123.Font = Enum.Font.SourceSansSemibold
+_123jl123.Text = "123jl123"
+_123jl123.TextColor3 = Color3.fromRGB(0, 0, 0)
+_123jl123.TextScaled = true
+_123jl123.TextSize = 14.000
+_123jl123.TextWrapped = true
+
+Banganeko.Name = "Bang a neko"
+Banganeko.Parent = Frame
+Banganeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Banganeko.Position = UDim2.new(0.00995067693, 0, 0.300589979, 0)
+Banganeko.Size = UDim2.new(0, 88, 0, 64)
+Banganeko.Style = Enum.ButtonStyle.RobloxRoundButton
+Banganeko.Font = Enum.Font.SourceSansSemibold
+Banganeko.Text = "Bang a neko"
+Banganeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+Banganeko.TextScaled = true
+Banganeko.TextSize = 14.000
+Banganeko.TextWrapped = true
+
+Bunnygirl.Name = "Bunny girl"
+Bunnygirl.Parent = Frame
+Bunnygirl.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Bunnygirl.Position = UDim2.new(0.265195817, 0, 0.302473038, 0)
+Bunnygirl.Size = UDim2.new(0, 85, 0, 63)
+Bunnygirl.Style = Enum.ButtonStyle.RobloxRoundButton
+Bunnygirl.Font = Enum.Font.SourceSansSemibold
+Bunnygirl.Text = "Bunny girl"
+Bunnygirl.TextColor3 = Color3.fromRGB(0, 0, 0)
+Bunnygirl.TextScaled = true
+Bunnygirl.TextSize = 14.000
+Bunnygirl.TextWrapped = true
+
+BoiShesThicc.Name = "Boi Shes Thicc 😋"
+BoiShesThicc.Parent = Frame
+BoiShesThicc.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BoiShesThicc.Position = UDim2.new(0.505585849, 0, 0.30250901, 0)
+BoiShesThicc.Size = UDim2.new(0, 82, 0, 62)
+BoiShesThicc.Style = Enum.ButtonStyle.RobloxRoundButton
+BoiShesThicc.Font = Enum.Font.SourceSansSemibold
+BoiShesThicc.Text = "Boi Shes Thicc 😋"
+BoiShesThicc.TextColor3 = Color3.fromRGB(0, 0, 0)
+BoiShesThicc.TextScaled = true
+BoiShesThicc.TextSize = 14.000
+BoiShesThicc.TextWrapped = true
+
+MommyNEko.Name = "Mommy NEko"
+MommyNEko.Parent = Frame
+MommyNEko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MommyNEko.Position = UDim2.new(0.741036475, 0, 0.30330345, 0)
+MommyNEko.Size = UDim2.new(0, 82, 0, 61)
+MommyNEko.Style = Enum.ButtonStyle.RobloxRoundButton
+MommyNEko.Font = Enum.Font.SourceSansSemibold
+MommyNEko.Text = "Mommy NEko"
+MommyNEko.TextColor3 = Color3.fromRGB(0, 0, 0)
+MommyNEko.TextScaled = true
+MommyNEko.TextSize = 14.000
+MommyNEko.TextWrapped = true
+
+SchoolGirlNeko.Name = "School Girl Neko"
+SchoolGirlNeko.Parent = Frame
+SchoolGirlNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SchoolGirlNeko.Position = UDim2.new(0.00961719453, 0, 0.452293336, 0)
+SchoolGirlNeko.Size = UDim2.new(0, 89, 0, 64)
+SchoolGirlNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+SchoolGirlNeko.Font = Enum.Font.SourceSansSemibold
+SchoolGirlNeko.Text = "School girl neko"
+SchoolGirlNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+SchoolGirlNeko.TextScaled = true
+SchoolGirlNeko.TextSize = 14.000
+SchoolGirlNeko.TextWrapped = true
+
+Nekodj.Name = "Neko dj"
+Nekodj.Parent = Frame
+Nekodj.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Nekodj.Position = UDim2.new(0.266230494, 0, 0.451330036, 0)
+Nekodj.Size = UDim2.new(0, 84, 0, 65)
+Nekodj.Style = Enum.ButtonStyle.RobloxRoundButton
+Nekodj.Font = Enum.Font.SourceSansSemibold
+Nekodj.Text = "Neko dj"
+Nekodj.TextColor3 = Color3.fromRGB(0, 0, 0)
+Nekodj.TextScaled = true
+Nekodj.TextSize = 14.000
+Nekodj.TextWrapped = true
+
+Calmdemonfurry.Name = "Calm demon furry"
+Calmdemonfurry.Parent = Frame
+Calmdemonfurry.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Calmdemonfurry.Position = UDim2.new(0.51044637, 0, 0.453029722, 0)
+Calmdemonfurry.Size = UDim2.new(0, 81, 0, 64)
+Calmdemonfurry.Style = Enum.ButtonStyle.RobloxRoundButton
+Calmdemonfurry.Font = Enum.Font.SourceSansSemibold
+Calmdemonfurry.Text = "Calm Demon Furry"
+Calmdemonfurry.TextColor3 = Color3.fromRGB(0, 0, 0)
+Calmdemonfurry.TextScaled = true
+Calmdemonfurry.TextSize = 14.000
+Calmdemonfurry.TextWrapped = true
+
+CozyNeko.Name = "Cozy Neko"
+CozyNeko.Parent = Frame
+CozyNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CozyNeko.Position = UDim2.new(0.740368485, 0, 0.451095372, 0)
+CozyNeko.Size = UDim2.new(0, 79, 0, 65)
+CozyNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+CozyNeko.Font = Enum.Font.SourceSansSemibold
+CozyNeko.Text = "Cozy Neko"
+CozyNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+CozyNeko.TextScaled = true
+CozyNeko.TextSize = 14.000
+CozyNeko.TextWrapped = true
+
+CleanNeko.Name = "Clean Neko"
+CleanNeko.Parent = Frame
+CleanNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CleanNeko.Position = UDim2.new(0.00921064708, 0, 0.601086497, 0)
+CleanNeko.Size = UDim2.new(0, 89, 0, 64)
+CleanNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+CleanNeko.Font = Enum.Font.SourceSansSemibold
+CleanNeko.Text = "Clean Neko"
+CleanNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+CleanNeko.TextScaled = true
+CleanNeko.TextSize = 14.000
+CleanNeko.TextWrapped = true
+
+BunnyNeko.Name = "Bunny Neko"
+BunnyNeko.Parent = Frame
+BunnyNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BunnyNeko.Position = UDim2.new(0.265195817, 0, 0.6036551, 0)
+BunnyNeko.Size = UDim2.new(0, 87, 0, 64)
+BunnyNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+BunnyNeko.Font = Enum.Font.SourceSansSemibold
+BunnyNeko.Text = "Bunny Neko"
+BunnyNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+BunnyNeko.TextScaled = true
+BunnyNeko.TextSize = 14.000
+BunnyNeko.TextWrapped = true
+
+BabyBlue.Name = "Baby Blue"
+BabyBlue.Parent = Frame
+BabyBlue.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BabyBlue.Position = UDim2.new(0.514482677, 0, 0.602905571, 0)
+BabyBlue.Size = UDim2.new(0, 80, 0, 63)
+BabyBlue.Style = Enum.ButtonStyle.RobloxRoundButton
+BabyBlue.Font = Enum.Font.SourceSansSemibold
+BabyBlue.Text = "Baby Blue"
+BabyBlue.TextColor3 = Color3.fromRGB(0, 0, 0)
+BabyBlue.TextScaled = true
+BabyBlue.TextSize = 14.000
+BabyBlue.TextWrapped = true
+
+AnimeNeko.Name = "Anime Neko"
+AnimeNeko.Parent = Frame
+AnimeNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AnimeNeko.Position = UDim2.new(0.742395699, 0, 0.604528606, 0)
+AnimeNeko.Size = UDim2.new(0, 77, 0, 63)
+AnimeNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+AnimeNeko.Font = Enum.Font.SourceSansSemibold
+AnimeNeko.Text = "Anime Neko"
+AnimeNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+AnimeNeko.TextScaled = true
+AnimeNeko.TextSize = 14.000
+AnimeNeko.TextWrapped = true
+
+PattoharoNeko.Name = "Pattoharo Neko"
+PattoharoNeko.Parent = Frame
+PattoharoNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+PattoharoNeko.Position = UDim2.new(0.00961719453, 0, 0.752010167, 0)
+PattoharoNeko.Size = UDim2.new(0, 89, 0, 64)
+PattoharoNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+PattoharoNeko.Font = Enum.Font.SourceSansSemibold
+PattoharoNeko.Text = "Pattoharo Neko"
+PattoharoNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+PattoharoNeko.TextScaled = true
+PattoharoNeko.TextSize = 14.000
+PattoharoNeko.TextWrapped = true
+
+Furrzzie.Name = "Furrzzie"
+Furrzzie.Parent = Frame
+Furrzzie.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Furrzzie.Position = UDim2.new(0.266968042, 0, 0.75314045, 0)
+Furrzzie.Size = UDim2.new(0, 85, 0, 63)
+Furrzzie.Style = Enum.ButtonStyle.RobloxRoundButton
+Furrzzie.Font = Enum.Font.SourceSansSemibold
+Furrzzie.Text = "Furrzzie"
+Furrzzie.TextColor3 = Color3.fromRGB(0, 0, 0)
+Furrzzie.TextScaled = true
+Furrzzie.TextSize = 14.000
+Furrzzie.TextWrapped = true
+
+EGirl.Name = "E-Girl"
+EGirl.Parent = Frame
+EGirl.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+EGirl.Position = UDim2.new(0.512808383, 0, 0.747104824, 0)
+EGirl.Size = UDim2.new(0, 80, 0, 67)
+EGirl.Style = Enum.ButtonStyle.RobloxRoundButton
+EGirl.Font = Enum.Font.SourceSansSemibold
+EGirl.Text = "E-Girl"
+EGirl.TextColor3 = Color3.fromRGB(0, 0, 0)
+EGirl.TextScaled = true
+EGirl.TextSize = 14.000
+EGirl.TextWrapped = true
+
+Waifu.Name = "Waifu"
+Waifu.Parent = Frame
+Waifu.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Waifu.Position = UDim2.new(0.739431739, 0, 0.752270222, 0)
+Waifu.Size = UDim2.new(0, 79, 0, 65)
+Waifu.Style = Enum.ButtonStyle.RobloxRoundButton
+Waifu.Font = Enum.Font.SourceSansSemibold
+Waifu.Text = "Waifu"
+Waifu.TextColor3 = Color3.fromRGB(0, 0, 0)
+Waifu.TextScaled = true
+Waifu.TextSize = 14.000
+Waifu.TextWrapped = true
+
+VND.Name = "VND"
+VND.Parent = Frame
+VND.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+VND.Position = UDim2.new(0.0101348432, 0, 0.90102762, 0)
+VND.Size = UDim2.new(0, 89, 0, 66)
+VND.Style = Enum.ButtonStyle.RobloxRoundButton
+VND.Font = Enum.Font.SourceSansSemibold
+VND.Text = "VND"
+VND.TextColor3 = Color3.fromRGB(0, 0, 0)
+VND.TextScaled = true
+VND.TextSize = 14.000
+VND.TextWrapped = true
+
+Kitty.Name = "Kitty"
+Kitty.Parent = Frame
+Kitty.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Kitty.Position = UDim2.new(0.266268611, 0, 0.901027679, 0)
+Kitty.Size = UDim2.new(0, 86, 0, 65)
+Kitty.Style = Enum.ButtonStyle.RobloxRoundButton
+Kitty.Font = Enum.Font.SourceSansSemibold
+Kitty.Text = "Kitty"
+Kitty.TextColor3 = Color3.fromRGB(0, 0, 0)
+Kitty.TextScaled = true
+Kitty.TextSize = 14.000
+Kitty.TextWrapped = true
+
+Alice.Name = "Alice"
+Alice.Parent = Frame
+Alice.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Alice.Position = UDim2.new(0.509708643, 0, 0.901027679, 0)
+Alice.Size = UDim2.new(0, 83, 0, 65)
+Alice.Style = Enum.ButtonStyle.RobloxRoundButton
+Alice.Font = Enum.Font.SourceSansSemibold
+Alice.Text = "Alice"
+Alice.TextColor3 = Color3.fromRGB(0, 0, 0)
+Alice.TextScaled = true
+Alice.TextSize = 14.000
+Alice.TextWrapped = true
+
+BlackandBlueNeko.Name = "Black and Blue Neko"
+BlackandBlueNeko.Parent = Frame
+BlackandBlueNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BlackandBlueNeko.Position = UDim2.new(0.745490074, 0, 0.899274647, 0)
+BlackandBlueNeko.Size = UDim2.new(0, 80, 0, 65)
+BlackandBlueNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+BlackandBlueNeko.Font = Enum.Font.SourceSansSemibold
+BlackandBlueNeko.Text = "Black and Blue Neko"
+BlackandBlueNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+BlackandBlueNeko.TextScaled = true
+BlackandBlueNeko.TextSize = 14.000
+BlackandBlueNeko.TextWrapped = true
+
+GreenNekobutLooksCool.Name = "Green Neko but Looks Cool"
+GreenNekobutLooksCool.Parent = Frame
+GreenNekobutLooksCool.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+GreenNekobutLooksCool.Position = UDim2.new(0.005399046, 0, 1.05752277, 0)
+GreenNekobutLooksCool.Size = UDim2.new(0, 91, 0, 61)
+GreenNekobutLooksCool.Style = Enum.ButtonStyle.RobloxRoundButton
+GreenNekobutLooksCool.Font = Enum.Font.SourceSansSemibold
+GreenNekobutLooksCool.Text = "Green Neko but Looks Cool"
+GreenNekobutLooksCool.TextColor3 = Color3.fromRGB(0, 0, 0)
+GreenNekobutLooksCool.TextScaled = true
+GreenNekobutLooksCool.TextSize = 14.000
+GreenNekobutLooksCool.TextWrapped = true
+
+CleanNekobutWhat.Name = "Clean Neko but What?"
+CleanNekobutWhat.Parent = Frame
+CleanNekobutWhat.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CleanNekobutWhat.Position = UDim2.new(0.269565225, 0, 1.05126238, 0)
+CleanNekobutWhat.Size = UDim2.new(0, 84, 0, 63)
+CleanNekobutWhat.Style = Enum.ButtonStyle.RobloxRoundButton
+CleanNekobutWhat.Font = Enum.Font.SourceSansSemibold
+CleanNekobutWhat.Text = "Clean Neko but What?"
+CleanNekobutWhat.TextColor3 = Color3.fromRGB(0, 0, 0)
+CleanNekobutWhat.TextScaled = true
+CleanNekobutWhat.TextSize = 14.000
+CleanNekobutWhat.TextWrapped = true
+
+Jotaro.Name = "Jotaro"
+Jotaro.Parent = Frame
+Jotaro.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Jotaro.Position = UDim2.new(0.512235343, 0, 1.0559572, 0)
+Jotaro.Size = UDim2.new(0, 82, 0, 60)
+Jotaro.Style = Enum.ButtonStyle.RobloxRoundButton
+Jotaro.Font = Enum.Font.SourceSansSemibold
+Jotaro.Text = "Jotaro"
+Jotaro.TextColor3 = Color3.fromRGB(0, 0, 0)
+Jotaro.TextScaled = true
+Jotaro.TextSize = 14.000
+Jotaro.TextWrapped = true
+
+BlackNekoCasual.Name = "Black Neko Casual"
+BlackNekoCasual.Parent = Frame
+BlackNekoCasual.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BlackNekoCasual.Position = UDim2.new(0.746890187, 0, 1.05185676, 0)
+BlackNekoCasual.Size = UDim2.new(0, 79, 0, 62)
+BlackNekoCasual.Style = Enum.ButtonStyle.RobloxRoundButton
+BlackNekoCasual.Font = Enum.Font.SourceSansSemibold
+BlackNekoCasual.Text = "Black Neko Casual"
+BlackNekoCasual.TextColor3 = Color3.fromRGB(0, 0, 0)
+BlackNekoCasual.TextScaled = true
+BlackNekoCasual.TextSize = 14.000
+BlackNekoCasual.TextWrapped = true
+
+CuteBlueMaid.Name = "Cute Blue Maid"
+CuteBlueMaid.Parent = Frame
+CuteBlueMaid.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CuteBlueMaid.Position = UDim2.new(0.0101428041, 0, 1.19868207, 0)
+CuteBlueMaid.Size = UDim2.new(0, 89, 0, 64)
+CuteBlueMaid.Style = Enum.ButtonStyle.RobloxRoundButton
+CuteBlueMaid.Font = Enum.Font.SourceSansSemibold
+CuteBlueMaid.Text = "Cute Blue Maid"
+CuteBlueMaid.TextColor3 = Color3.fromRGB(0, 0, 0)
+CuteBlueMaid.TextScaled = true
+CuteBlueMaid.TextSize = 14.000
+CuteBlueMaid.TextWrapped = true
+
+EniTheFurry.Name = "Eni The Furry"
+EniTheFurry.Parent = Frame
+EniTheFurry.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+EniTheFurry.Position = UDim2.new(0.267181575, 0, 1.1989609, 0)
+EniTheFurry.Size = UDim2.new(0, 86, 0, 64)
+EniTheFurry.Style = Enum.ButtonStyle.RobloxRoundButton
+EniTheFurry.Font = Enum.Font.SourceSansSemibold
+EniTheFurry.Text = "Eni The Furry"
+EniTheFurry.TextColor3 = Color3.fromRGB(0, 0, 0)
+EniTheFurry.TextScaled = true
+EniTheFurry.TextSize = 14.000
+EniTheFurry.TextWrapped = true
+
+Angel.Name = "Angel"
+Angel.Parent = Frame
+Angel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Angel.Position = UDim2.new(0.513558447, 0, 1.1989609, 0)
+Angel.Size = UDim2.new(0, 81, 0, 64)
+Angel.Style = Enum.ButtonStyle.RobloxRoundButton
+Angel.Font = Enum.Font.SourceSansSemibold
+Angel.Text = "Angel"
+Angel.TextColor3 = Color3.fromRGB(0, 0, 0)
+Angel.TextScaled = true
+Angel.TextSize = 14.000
+Angel.TextWrapped = true
+
+CutePinkNeko.Name = "Cute Pink Neko"
+CutePinkNeko.Parent = Frame
+CutePinkNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CutePinkNeko.Position = UDim2.new(0.750538528, 0, 1.19956303, 0)
+CutePinkNeko.Size = UDim2.new(0, 85, 0, 63)
+CutePinkNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+CutePinkNeko.Font = Enum.Font.SourceSansSemibold
+CutePinkNeko.Text = "Cute Pink Neko"
+CutePinkNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+CutePinkNeko.TextScaled = true
+CutePinkNeko.TextSize = 14.000
+CutePinkNeko.TextWrapped = true
+
+Empty_2.Name = "Empty"
+Empty_2.Parent = Frame
+Empty_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Empty_2.Position = UDim2.new(0.258533597, 0, 2.63888931, 0)
+Empty_2.Size = UDim2.new(0, 89, 0, 66)
+Empty_2.Style = Enum.ButtonStyle.RobloxRoundButton
+Empty_2.Font = Enum.Font.SourceSansSemibold
+Empty_2.Text = "Empty"
+Empty_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+Empty_2.TextScaled = true
+Empty_2.TextSize = 14.000
+Empty_2.TextWrapped = true
+
+Empty_3.Name = "Empty"
+Empty_3.Parent = Frame
+Empty_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Empty_3.Position = UDim2.new(0.490417659, 0, -0.00665056705, 0)
+Empty_3.Size = UDim2.new(0, 89, 0, 66)
+Empty_3.Style = Enum.ButtonStyle.RobloxRoundButton
+Empty_3.Font = Enum.Font.SourceSansSemibold
+Empty_3.Text = "Empty"
+Empty_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+Empty_3.TextScaled = true
+Empty_3.TextSize = 14.000
+Empty_3.TextWrapped = true
+
+StrawberryCow.Name = "Strawberry Cow"
+StrawberryCow.Parent = Frame
+StrawberryCow.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+StrawberryCow.Position = UDim2.new(0.51044637, 0, 1.34792078, 0)
+StrawberryCow.Size = UDim2.new(0, 84, 0, 59)
+StrawberryCow.Style = Enum.ButtonStyle.RobloxRoundButton
+StrawberryCow.Font = Enum.Font.SourceSansSemibold
+StrawberryCow.Text = "Strawberry Cow"
+StrawberryCow.TextColor3 = Color3.fromRGB(0, 0, 0)
+StrawberryCow.TextScaled = true
+StrawberryCow.TextSize = 14.000
+StrawberryCow.TextWrapped = true
+
+Garcello.Name = "Garcello"
+Garcello.Parent = Frame
+Garcello.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Garcello.Position = UDim2.new(0.757960856, 0, 1.34468961, 0)
+Garcello.Size = UDim2.new(0, 82, 0, 60)
+Garcello.Style = Enum.ButtonStyle.RobloxRoundButton
+Garcello.Font = Enum.Font.SourceSansSemibold
+Garcello.Text = "Garcello"
+Garcello.TextColor3 = Color3.fromRGB(0, 0, 0)
+Garcello.TextScaled = true
+Garcello.TextSize = 14.000
+Garcello.TextWrapped = true
+
+ZeroTew.Name = "ZeroTew"
+ZeroTew.Parent = Frame
+ZeroTew.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ZeroTew.Position = UDim2.new(0.00899693556, 0, 1.48318744, 0)
+ZeroTew.Size = UDim2.new(0, 89, 0, 60)
+ZeroTew.Style = Enum.ButtonStyle.RobloxRoundButton
+ZeroTew.Font = Enum.Font.SourceSansSemibold
+ZeroTew.Text = "Zero Tew"
+ZeroTew.TextColor3 = Color3.fromRGB(0, 0, 0)
+ZeroTew.TextScaled = true
+ZeroTew.TextSize = 14.000
+ZeroTew.TextWrapped = true
+
+idkwhattonamethislol.Name = "idk what to name this lol"
+idkwhattonamethislol.Parent = Frame
+idkwhattonamethislol.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+idkwhattonamethislol.Position = UDim2.new(0.269379199, 0, 1.48788214, 0)
+idkwhattonamethislol.Size = UDim2.new(0, 84, 0, 60)
+idkwhattonamethislol.Style = Enum.ButtonStyle.RobloxRoundButton
+idkwhattonamethislol.Font = Enum.Font.SourceSansSemibold
+idkwhattonamethislol.Text = "idk what to name this lol"
+idkwhattonamethislol.TextColor3 = Color3.fromRGB(0, 0, 0)
+idkwhattonamethislol.TextScaled = true
+idkwhattonamethislol.TextSize = 14.000
+idkwhattonamethislol.TextWrapped = true
+
+MoonBlue.Name = "Moon (Blue)"
+MoonBlue.Parent = Frame
+MoonBlue.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MoonBlue.Position = UDim2.new(0.756335616, 0, 1.48565829, 0)
+MoonBlue.Size = UDim2.new(0, 79, 0, 60)
+MoonBlue.Style = Enum.ButtonStyle.RobloxRoundButton
+MoonBlue.Font = Enum.Font.SourceSansSemibold
+MoonBlue.Text = "Moon(Blue)"
+MoonBlue.TextColor3 = Color3.fromRGB(0, 0, 0)
+MoonBlue.TextScaled = true
+MoonBlue.TextSize = 14.000
+MoonBlue.TextWrapped = true
+
+Moonred.Name = "Moon (red)"
+Moonred.Parent = Frame
+Moonred.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Moonred.Position = UDim2.new(0.0114080897, 0, 1.62650335, 0)
+Moonred.Size = UDim2.new(0, 90, 0, 60)
+Moonred.Style = Enum.ButtonStyle.RobloxRoundButton
+Moonred.Font = Enum.Font.SourceSansSemibold
+Moonred.Text = "Moon(red)"
+Moonred.TextColor3 = Color3.fromRGB(0, 0, 0)
+Moonred.TextScaled = true
+Moonred.TextSize = 14.000
+Moonred.TextWrapped = true
+
+Moon.Name = "Moon"
+Moon.Parent = Frame
+Moon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Moon.Position = UDim2.new(0.514482677, 0, 1.48318744, 0)
+Moon.Size = UDim2.new(0, 82, 0, 61)
+Moon.Style = Enum.ButtonStyle.RobloxRoundButton
+Moon.Font = Enum.Font.SourceSansSemibold
+Moon.Text = "Moon"
+Moon.TextColor3 = Color3.fromRGB(0, 0, 0)
+Moon.TextScaled = true
+Moon.TextSize = 14.000
+Moon.TextWrapped = true
+
+MaidNeko2.Name = "Maid Neko 2"
+MaidNeko2.Parent = Frame
+MaidNeko2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MaidNeko2.Position = UDim2.new(0.512857378, 0, 1.62825942, 0)
+MaidNeko2.Size = UDim2.new(0, 83, 0, 59)
+MaidNeko2.Style = Enum.ButtonStyle.RobloxRoundButton
+MaidNeko2.Font = Enum.Font.SourceSansSemibold
+MaidNeko2.Text = "Maid Neko 2"
+MaidNeko2.TextColor3 = Color3.fromRGB(0, 0, 0)
+MaidNeko2.TextScaled = true
+MaidNeko2.TextSize = 14.000
+MaidNeko2.TextWrapped = true
+
+MaidNeko3.Name = "Maid Neko 3"
+MaidNeko3.Parent = Frame
+MaidNeko3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MaidNeko3.Position = UDim2.new(0.755062222, 0, 1.62403238, 0)
+MaidNeko3.Size = UDim2.new(0, 76, 0, 60)
+MaidNeko3.Style = Enum.ButtonStyle.RobloxRoundButton
+MaidNeko3.Font = Enum.Font.SourceSansSemibold
+MaidNeko3.Text = "Maid Neko 3"
+MaidNeko3.TextColor3 = Color3.fromRGB(0, 0, 0)
+MaidNeko3.TextScaled = true
+MaidNeko3.TextSize = 14.000
+MaidNeko3.TextWrapped = true
+
+MaidNeko.Name = "Maid Neko"
+MaidNeko.Parent = Frame
+MaidNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MaidNeko.Position = UDim2.new(0.27380991, 0, 1.6282897, 0)
+MaidNeko.Size = UDim2.new(0, 84, 0, 59)
+MaidNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+MaidNeko.Font = Enum.Font.SourceSansSemibold
+MaidNeko.Text = "Maid Neko"
+MaidNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+MaidNeko.TextScaled = true
+MaidNeko.TextSize = 14.000
+MaidNeko.TextWrapped = true
+
+CuteNeko.Name = "Cute Neko"
+CuteNeko.Parent = Frame
+CuteNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CuteNeko.Position = UDim2.new(0.271462619, 0, 1.76722515, 0)
+CuteNeko.Size = UDim2.new(0, 84, 0, 58)
+CuteNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+CuteNeko.Font = Enum.Font.SourceSansSemibold
+CuteNeko.Text = "Cute Neko"
+CuteNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+CuteNeko.TextScaled = true
+CuteNeko.TextSize = 14.000
+CuteNeko.TextWrapped = true
+
+MaidFnfGF.Name = "Maid Fnf GF"
+MaidFnfGF.Parent = Frame
+MaidFnfGF.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MaidFnfGF.Position = UDim2.new(0.0114080897, 0, 1.76487744, 0)
+MaidFnfGF.Size = UDim2.new(0, 89, 0, 58)
+MaidFnfGF.Style = Enum.ButtonStyle.RobloxRoundButton
+MaidFnfGF.Font = Enum.Font.SourceSansSemibold
+MaidFnfGF.Text = "Maid Fnf GF"
+MaidFnfGF.TextColor3 = Color3.fromRGB(0, 0, 0)
+MaidFnfGF.TextScaled = true
+MaidFnfGF.TextSize = 14.000
+MaidFnfGF.TextWrapped = true
+
+CuteBlueMaid_2.Name = "Cute Blue Maid"
+CuteBlueMaid_2.Parent = Frame
+CuteBlueMaid_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CuteBlueMaid_2.Position = UDim2.new(0.514490604, 0, 1.7644099, 0)
+CuteBlueMaid_2.Size = UDim2.new(0, 83, 0, 59)
+CuteBlueMaid_2.Style = Enum.ButtonStyle.RobloxRoundButton
+CuteBlueMaid_2.Font = Enum.Font.SourceSansSemibold
+CuteBlueMaid_2.Text = "Cute Blue Maid"
+CuteBlueMaid_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+CuteBlueMaid_2.TextScaled = true
+CuteBlueMaid_2.TextSize = 14.000
+CuteBlueMaid_2.TextWrapped = true
+
+MaidCommander.Name = "Maid Commander"
+MaidCommander.Parent = Frame
+MaidCommander.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MaidCommander.Position = UDim2.new(0.75708431, 0, 1.76658344, 0)
+MaidCommander.Size = UDim2.new(0, 84, 0, 59)
+MaidCommander.Style = Enum.ButtonStyle.RobloxRoundButton
+MaidCommander.Font = Enum.Font.SourceSansSemibold
+MaidCommander.Text = "Maid Commander"
+MaidCommander.TextColor3 = Color3.fromRGB(0, 0, 0)
+MaidCommander.TextScaled = true
+MaidCommander.TextSize = 14.000
+MaidCommander.TextWrapped = true
+
+SwatNekoP.Name = "Swat Neko :P"
+SwatNekoP.Parent = Frame
+SwatNekoP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SwatNekoP.Position = UDim2.new(0.0143443234, 0, 1.90064991, 0)
+SwatNekoP.Size = UDim2.new(0, 87, 0, 59)
+SwatNekoP.Style = Enum.ButtonStyle.RobloxRoundButton
+SwatNekoP.Font = Enum.Font.SourceSansSemibold
+SwatNekoP.Text = "Swat Neko :P"
+SwatNekoP.TextColor3 = Color3.fromRGB(0, 0, 0)
+SwatNekoP.TextScaled = true
+SwatNekoP.TextSize = 14.000
+SwatNekoP.TextWrapped = true
+
+NekoKiller.Name = "Neko Killer"
+NekoKiller.Parent = Frame
+NekoKiller.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+NekoKiller.Position = UDim2.new(0.268925846, 0, 1.90064991, 0)
+NekoKiller.Size = UDim2.new(0, 85, 0, 59)
+NekoKiller.Style = Enum.ButtonStyle.RobloxRoundButton
+NekoKiller.Font = Enum.Font.SourceSansSemibold
+NekoKiller.Text = "Neko Killer"
+NekoKiller.TextColor3 = Color3.fromRGB(0, 0, 0)
+NekoKiller.TextScaled = true
+NekoKiller.TextSize = 14.000
+NekoKiller.TextWrapped = true
+
+BearNeko.Name = "Bear Neko"
+BearNeko.Parent = Frame
+BearNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BearNeko.Position = UDim2.new(0.512857378, 0, 1.90064991, 0)
+BearNeko.Size = UDim2.new(0, 82, 0, 59)
+BearNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+BearNeko.Font = Enum.Font.SourceSansSemibold
+BearNeko.Text = "Bear Neko"
+BearNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+BearNeko.TextScaled = true
+BearNeko.TextSize = 14.000
+BearNeko.TextWrapped = true
+
+WhiteNeko.Name = "White Neko"
+WhiteNeko.Parent = Frame
+WhiteNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WhiteNeko.Position = UDim2.new(0.756335735, 0, 1.9050622, 0)
+WhiteNeko.Size = UDim2.new(0, 85, 0, 59)
+WhiteNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+WhiteNeko.Font = Enum.Font.SourceSansSemibold
+WhiteNeko.Text = "White Neko"
+WhiteNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+WhiteNeko.TextScaled = true
+WhiteNeko.TextSize = 14.000
+WhiteNeko.TextWrapped = true
+
+Nekobutsomethingaintright.Name = "Neko but something aint right"
+Nekobutsomethingaintright.Parent = Frame
+Nekobutsomethingaintright.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Nekobutsomethingaintright.Position = UDim2.new(0.0158388894, 0, 2.03717828, 0)
+Nekobutsomethingaintright.Size = UDim2.new(0, 89, 0, 59)
+Nekobutsomethingaintright.Style = Enum.ButtonStyle.RobloxRoundButton
+Nekobutsomethingaintright.Font = Enum.Font.SourceSansSemibold
+Nekobutsomethingaintright.Text = "Neko but something aint right"
+Nekobutsomethingaintright.TextColor3 = Color3.fromRGB(0, 0, 0)
+Nekobutsomethingaintright.TextScaled = true
+Nekobutsomethingaintright.TextSize = 14.000
+Nekobutsomethingaintright.TextWrapped = true
+
+Puro.Name = "Puro"
+Puro.Parent = Frame
+Puro.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Puro.Position = UDim2.new(0.517369747, 0, 2.03426147, 0)
+Puro.Size = UDim2.new(0, 82, 0, 60)
+Puro.Style = Enum.ButtonStyle.RobloxRoundButton
+Puro.Font = Enum.Font.SourceSansSemibold
+Puro.Text = "Puro"
+Puro.TextColor3 = Color3.fromRGB(0, 0, 0)
+Puro.TextScaled = true
+Puro.TextSize = 14.000
+Puro.TextWrapped = true
+
+Pilot.Name = "Pilot"
+Pilot.Parent = Frame
+Pilot.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Pilot.Position = UDim2.new(0.268105865, 0, 2.0371778, 0)
+Pilot.Size = UDim2.new(0, 85, 0, 59)
+Pilot.Style = Enum.ButtonStyle.RobloxRoundButton
+Pilot.Font = Enum.Font.SourceSansSemibold
+Pilot.Text = "Pilot"
+Pilot.TextColor3 = Color3.fromRGB(0, 0, 0)
+Pilot.TextScaled = true
+Pilot.TextSize = 14.000
+Pilot.TextWrapped = true
+
+PartyNekoCasual.Name = "Party Neko Casual"
+PartyNekoCasual.Parent = Frame
+PartyNekoCasual.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+PartyNekoCasual.Position = UDim2.new(0.7621575, 0, 2.03818464, 0)
+PartyNekoCasual.Size = UDim2.new(0, 81, 0, 60)
+PartyNekoCasual.Style = Enum.ButtonStyle.RobloxRoundButton
+PartyNekoCasual.Font = Enum.Font.SourceSansSemibold
+PartyNekoCasual.Text = "Party Neko Casual"
+PartyNekoCasual.TextColor3 = Color3.fromRGB(0, 0, 0)
+PartyNekoCasual.TextScaled = true
+PartyNekoCasual.TextSize = 14.000
+PartyNekoCasual.TextWrapped = true
+
+MaleNeko.Name = "Male Neko"
+MaleNeko.Parent = Frame
+MaleNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MaleNeko.Position = UDim2.new(0.743611276, 0, 0.150636911, 0)
+MaleNeko.Size = UDim2.new(0, 82, 0, 64)
+MaleNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+MaleNeko.Font = Enum.Font.SourceSansSemibold
+MaleNeko.Text = "Male Neko"
+MaleNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+MaleNeko.TextScaled = true
+MaleNeko.TextSize = 14.000
+MaleNeko.TextWrapped = true
+
+Ankha.Name = "Ankha"
+Ankha.Parent = Frame
+Ankha.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Ankha.Position = UDim2.new(0.273026347, 0, 2.17175317, 0)
+Ankha.Size = UDim2.new(0, 84, 0, 66)
+Ankha.Style = Enum.ButtonStyle.RobloxRoundButton
+Ankha.Font = Enum.Font.SourceSansSemibold
+Ankha.Text = "Ankha"
+Ankha.TextColor3 = Color3.fromRGB(0, 0, 0)
+Ankha.TextScaled = true
+Ankha.TextSize = 14.000
+Ankha.TextWrapped = true
+
+Protogen.Name = "Protogen"
+Protogen.Parent = Frame
+Protogen.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Protogen.Position = UDim2.new(0.516504586, 0, 2.1741004, 0)
+Protogen.Size = UDim2.new(0, 84, 0, 66)
+Protogen.Style = Enum.ButtonStyle.RobloxRoundButton
+Protogen.Font = Enum.Font.SourceSansSemibold
+Protogen.Text = "Protogen"
+Protogen.TextColor3 = Color3.fromRGB(0, 0, 0)
+Protogen.TextScaled = true
+Protogen.TextSize = 14.000
+Protogen.TextWrapped = true
+
+RedFurrzzie.Name = "Red Furrzzie"
+RedFurrzzie.Parent = Frame
+RedFurrzzie.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+RedFurrzzie.Position = UDim2.new(0.0150553389, 0, 2.1741004, 0)
+RedFurrzzie.Size = UDim2.new(0, 89, 0, 66)
+RedFurrzzie.Style = Enum.ButtonStyle.RobloxRoundButton
+RedFurrzzie.Font = Enum.Font.SourceSansSemibold
+RedFurrzzie.Text = "Red Furrzzie"
+RedFurrzzie.TextColor3 = Color3.fromRGB(0, 0, 0)
+RedFurrzzie.TextScaled = true
+RedFurrzzie.TextSize = 14.000
+RedFurrzzie.TextWrapped = true
+
+NekogotDrip.Name = "Neko got Drip"
+NekogotDrip.Parent = Frame
+NekogotDrip.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+NekogotDrip.Position = UDim2.new(0.00346113555, 0, 2.32903004, 0)
+NekogotDrip.Size = UDim2.new(0, 89, 0, 66)
+NekogotDrip.Style = Enum.ButtonStyle.RobloxRoundButton
+NekogotDrip.Font = Enum.Font.SourceSansSemibold
+NekogotDrip.Text = "Neko got Drip"
+NekogotDrip.TextColor3 = Color3.fromRGB(0, 0, 0)
+NekogotDrip.TextScaled = true
+NekogotDrip.TextSize = 14.000
+NekogotDrip.TextWrapped = true
+
+BunnyGirlSenpai.Name = "Bunny Girl Senpai"
+BunnyGirlSenpai.Parent = Frame
+BunnyGirlSenpai.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BunnyGirlSenpai.Position = UDim2.new(0.261432141, 0, 2.32668257, 0)
+BunnyGirlSenpai.Size = UDim2.new(0, 89, 0, 67)
+BunnyGirlSenpai.Style = Enum.ButtonStyle.RobloxRoundButton
+BunnyGirlSenpai.Font = Enum.Font.SourceSansSemibold
+BunnyGirlSenpai.Text = "Bunny Girl Senpai"
+BunnyGirlSenpai.TextColor3 = Color3.fromRGB(0, 0, 0)
+BunnyGirlSenpai.TextScaled = true
+BunnyGirlSenpai.TextSize = 14.000
+BunnyGirlSenpai.TextWrapped = true
+
+Military.Name = "Military"
+Military.Parent = Frame
+Military.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Military.Position = UDim2.new(0.510707498, 0, 2.32903004, 0)
+Military.Size = UDim2.new(0, 86, 0, 66)
+Military.Style = Enum.ButtonStyle.RobloxRoundButton
+Military.Font = Enum.Font.SourceSansSemibold
+Military.Text = "Military"
+Military.TextColor3 = Color3.fromRGB(0, 0, 0)
+Military.TextScaled = true
+Military.TextSize = 14.000
+Military.TextWrapped = true
+
+KangSaebyeok.Name = "Kang Sae byeok"
+KangSaebyeok.Parent = Frame
+KangSaebyeok.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+KangSaebyeok.Position = UDim2.new(0.759982824, 0, 2.32903004, 0)
+KangSaebyeok.Size = UDim2.new(0, 86, 0, 66)
+KangSaebyeok.Style = Enum.ButtonStyle.RobloxRoundButton
+KangSaebyeok.Font = Enum.Font.SourceSansSemibold
+KangSaebyeok.Text = "Kang Sae byeok"
+KangSaebyeok.TextColor3 = Color3.fromRGB(0, 0, 0)
+KangSaebyeok.TextScaled = true
+KangSaebyeok.TextSize = 14.000
+KangSaebyeok.TextWrapped = true
+
+SafeTemplateNeko.Name = "Safe Template Neko"
+SafeTemplateNeko.Parent = Frame
+SafeTemplateNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SafeTemplateNeko.Position = UDim2.new(0.00346113555, 0, 2.48395967, 0)
+SafeTemplateNeko.Size = UDim2.new(0, 89, 0, 66)
+SafeTemplateNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+SafeTemplateNeko.Font = Enum.Font.SourceSansSemibold
+SafeTemplateNeko.Text = "Safe Template Neko"
+SafeTemplateNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+SafeTemplateNeko.TextScaled = true
+SafeTemplateNeko.TextSize = 14.000
+SafeTemplateNeko.TextWrapped = true
+
+MommyNeko.Name = "Mommy Neko"
+MommyNeko.Parent = Frame
+MommyNeko.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MommyNeko.Position = UDim2.new(0.261432141, 0, 2.48395967, 0)
+MommyNeko.Size = UDim2.new(0, 89, 0, 66)
+MommyNeko.Style = Enum.ButtonStyle.RobloxRoundButton
+MommyNeko.Font = Enum.Font.SourceSansSemibold
+MommyNeko.Text = "Mommy Neko"
+MommyNeko.TextColor3 = Color3.fromRGB(0, 0, 0)
+MommyNeko.TextScaled = true
+MommyNeko.TextSize = 14.000
+MommyNeko.TextWrapped = true
+
+Empty_4.Name = "Empty"
+Empty_4.Parent = Frame
+Empty_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Empty_4.Position = UDim2.new(0.51940316, 0, 2.48395967, 0)
+Empty_4.Size = UDim2.new(0, 89, 0, 66)
+Empty_4.Style = Enum.ButtonStyle.RobloxRoundButton
+Empty_4.Font = Enum.Font.SourceSansSemibold
+Empty_4.Text = "Empty"
+Empty_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+Empty_4.TextScaled = true
+Empty_4.TextSize = 14.000
+Empty_4.TextWrapped = true
+
+Empty_5.Name = "Empty"
+Empty_5.Parent = Frame
+Empty_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Empty_5.Position = UDim2.new(0.777374148, 0, 2.48395967, 0)
+Empty_5.Size = UDim2.new(0, 89, 0, 66)
+Empty_5.Style = Enum.ButtonStyle.RobloxRoundButton
+Empty_5.Font = Enum.Font.SourceSansSemibold
+Empty_5.Text = "Empty"
+Empty_5.TextColor3 = Color3.fromRGB(0, 0, 0)
+Empty_5.TextScaled = true
+Empty_5.TextSize = 14.000
+Empty_5.TextWrapped = true
+
+Empty_6.Name = "Empty"
+Empty_6.Parent = Frame
+Empty_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Empty_6.Position = UDim2.new(0.00346112251, 0, 2.63888931, 0)
+Empty_6.Size = UDim2.new(0, 89, 0, 66)
+Empty_6.Style = Enum.ButtonStyle.RobloxRoundButton
+Empty_6.Font = Enum.Font.SourceSansSemibold
+Empty_6.Text = "Empty"
+Empty_6.TextColor3 = Color3.fromRGB(0, 0, 0)
+Empty_6.TextScaled = true
+Empty_6.TextSize = 14.000
+Empty_6.TextWrapped = true
+
+Empty_7.Name = "Empty"
+Empty_7.Parent = Frame
+Empty_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Empty_7.Position = UDim2.new(0.00346103311, 0, 1.33137751, 0)
+Empty_7.Size = UDim2.new(0, 89, 0, 66)
+Empty_7.Style = Enum.ButtonStyle.RobloxRoundButton
+Empty_7.Font = Enum.Font.SourceSansSemibold
+Empty_7.Text = "Empty"
+Empty_7.TextColor3 = Color3.fromRGB(0, 0, 0)
+Empty_7.TextScaled = true
+Empty_7.TextSize = 14.000
+Empty_7.TextWrapped = true
+
+Empty_8.Name = "Empty"
+Empty_8.Parent = Frame
+Empty_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Empty_8.Position = UDim2.new(0.51940316, 0, 2.63888931, 0)
+Empty_8.Size = UDim2.new(0, 89, 0, 66)
+Empty_8.Style = Enum.ButtonStyle.RobloxRoundButton
+Empty_8.Font = Enum.Font.SourceSansSemibold
+Empty_8.Text = "Empty"
+Empty_8.TextColor3 = Color3.fromRGB(0, 0, 0)
+Empty_8.TextScaled = true
+Empty_8.TextSize = 14.000
+Empty_8.TextWrapped = true
+
+Empty_9.Name = "Empty"
+Empty_9.Parent = Frame
+Empty_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Empty_9.Position = UDim2.new(0.777374148, 0, 2.63888931, 0)
+Empty_9.Size = UDim2.new(0, 89, 0, 66)
+Empty_9.Style = Enum.ButtonStyle.RobloxRoundButton
+Empty_9.Font = Enum.Font.SourceSansSemibold
+Empty_9.Text = "Empty"
+Empty_9.TextColor3 = Color3.fromRGB(0, 0, 0)
+Empty_9.TextScaled = true
+Empty_9.TextSize = 14.000
+Empty_9.TextWrapped = true
+
+Frame_2.Parent = Main
+Frame_2.BackgroundColor3 = Color3.fromRGB(106, 20, 255)
+Frame_2.Position = UDim2.new(0.789003134, 0, 0.962340236, 0)
+Frame_2.Size = UDim2.new(0, 88, 0, 288)
+
+R6.Name = "R6"
+R6.Parent = Frame_2
+R6.BackgroundColor3 = Color3.fromRGB(255, 158, 238)
+R6.BorderSizePixel = 0
+R6.Position = UDim2.new(0.115630247, 0, -0.00122815929, 0)
+R6.Size = UDim2.new(0, 67, 0, 30)
+R6.AutoButtonColor = false
+R6.Font = Enum.Font.SourceSansSemibold
+R6.Text = "R6"
+R6.TextColor3 = Color3.fromRGB(255, 255, 255)
+R6.TextSize = 17.000
+
+UICorner_2.CornerRadius = UDim.new(0.150000006, 0)
+UICorner_2.Parent = R6
+
+Circle.Name = "Circle"
+Circle.Parent = game.StarterGui.MainModule.ScreenGui.Main.Frame["R6"].CircleClickExample
+Circle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Circle.BackgroundTransparency = 1.000
+Circle.ZIndex = 10
+Circle.Image = "rbxassetid://266543268"
+Circle.ImageTransparency = 0.900
+
+Circle_2.Name = "Circle"
+Circle_2.Parent = game.StarterGui.MainModule.ScreenGui.Main.Frame["R6"].CircleClickExample
+Circle_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Circle_2.BackgroundTransparency = 1.000
+Circle_2.ZIndex = 10
+Circle_2.Image = "rbxassetid://266543268"
+Circle_2.ImageTransparency = 0.900
+
+Respawn.Name = "Respawn"
+Respawn.Parent = Frame_2
+Respawn.BackgroundColor3 = Color3.fromRGB(255, 158, 238)
+Respawn.BorderSizePixel = 0
+Respawn.Position = UDim2.new(0.108058579, 0, 0.120323569, 0)
+Respawn.Size = UDim2.new(0, 67, 0, 28)
+Respawn.AutoButtonColor = false
+Respawn.Font = Enum.Font.SourceSansSemibold
+Respawn.Text = "RE"
+Respawn.TextColor3 = Color3.fromRGB(255, 255, 255)
+Respawn.TextSize = 17.000
+
+Circle_3.Name = "Circle"
+Circle_3.Parent = game.StarterGui.MainModule.ScreenGui.Main.Frame.Respawn.CircleClickExample
+Circle_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Circle_3.BackgroundTransparency = 1.000
+Circle_3.ZIndex = 10
+Circle_3.Image = "rbxassetid://266543268"
+Circle_3.ImageTransparency = 0.900
+
+UICorner_3.CornerRadius = UDim.new(0.150000006, 0)
+UICorner_3.Parent = Respawn
+
+TargetSpawner.Name = "Target Spawner"
+TargetSpawner.Parent = Frame_2
+TargetSpawner.BackgroundColor3 = Color3.fromRGB(255, 158, 238)
+TargetSpawner.Position = UDim2.new(0.104780026, 0, 0.370370328, 0)
+TargetSpawner.Size = UDim2.new(0, 69, 0, 34)
+TargetSpawner.Font = Enum.Font.SourceSans
+TargetSpawner.Text = "Target Spawner"
+TargetSpawner.TextColor3 = Color3.fromRGB(255, 255, 255)
+TargetSpawner.TextSize = 20.000
+
+UICorner_4.CornerRadius = UDim.new(0.150000006, 0)
+UICorner_4.Parent = TargetSpawner
+
+NekoControlsGUI.Name = "Neko Controls GUI"
+NekoControlsGUI.Parent = Frame_2
+NekoControlsGUI.BackgroundColor3 = Color3.fromRGB(255, 158, 238)
+NekoControlsGUI.Position = UDim2.new(0.104780026, 0, 0.235690206, 0)
+NekoControlsGUI.Size = UDim2.new(0, 69, 0, 34)
+NekoControlsGUI.Font = Enum.Font.SourceSans
+NekoControlsGUI.Text = "Neko Controls GUI"
+NekoControlsGUI.TextColor3 = Color3.fromRGB(255, 255, 255)
+NekoControlsGUI.TextSize = 20.000
+
+UICorner_5.CornerRadius = UDim.new(0.150000006, 0)
+UICorner_5.Parent = NekoControlsGUI
+
+TextLabel_3.Parent = Main
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.BackgroundTransparency = 1.000
+TextLabel_3.Position = UDim2.new(0.291764766, 0, 0.229264051, 0)
+TextLabel_3.Size = UDim2.new(0, 156, 0, 27)
+TextLabel_3.Font = Enum.Font.SourceSans
+TextLabel_3.Text = ""
+TextLabel_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_3.TextSize = 20.000
+
+TextLabel_4.Parent = Main
+TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.BackgroundTransparency = 1.000
+TextLabel_4.Position = UDim2.new(0.0132421432, 0, 0.392054766, 0)
+TextLabel_4.Size = UDim2.new(0, 419, 0, 27)
+TextLabel_4.Font = Enum.Font.SourceSans
+TextLabel_4.Text = "maked by:sandro787812"
+TextLabel_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_4.TextSize = 20.000
+TextLabel_4.TextWrapped = true
+
+OpenClose.Name = "Open/Close"
+OpenClose.Parent = ScreenGui
+OpenClose.BackgroundColor3 = Color3.fromRGB(255, 139, 246)
+OpenClose.Position = UDim2.new(-0.000227615397, 0, 0.377004713, 0)
+OpenClose.Size = UDim2.new(0, 85, 0, 49)
+OpenClose.Font = Enum.Font.Gotham
+OpenClose.Text = "Open/Close"
+OpenClose.TextColor3 = Color3.fromRGB(255, 255, 255)
+OpenClose.TextScaled = true
+OpenClose.TextSize = 14.000
+OpenClose.TextWrapped = true
+
+UICorner_6.Parent = OpenClose
+
+-- Module Scripts:
+
+local fake_module_scripts = {}
+
+do -- nil.MainModule
+	local script = Instance.new('ModuleScript', nil)
+	script.Name = "MainModule"
+	local function module_script()
+		local module = {}
+		function module.load(plr)
+			for _, v in pairs(game:GetService("Players"):GetPlayers()) do
+				if string.sub(string.lower(v.Name), 0, string.len(plr)) == string.lower(plr) then
+					local gui = script.ScreenGui:Clone()
+					gui.Parent = v:FindFirstChildWhichIsA("PlayerGui")
+				end
+			end
+		end
+		return module
+	end
+	fake_module_scripts[script] = module_script
+end
+
+
+-- Scripts:
+
+local function NLCWGGN_fake_script() -- WhiteNekoimprovedV2.Script 
+	local script = Instance.new('Script', WhiteNekoimprovedV2)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8998676361).muwu(plr.Name)
+	end)
+end
+coroutine.wrap(NLCWGGN_fake_script)()
+local function RVMDG_fake_script() -- WhiteNekoimprovedV2.LocalScript 
+	local script = Instance.new('LocalScript', WhiteNekoimprovedV2)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(RVMDG_fake_script)()
+local function VPQWU_fake_script() -- TemplateNekoEdit.Script 
+	local script = Instance.new('Script', TemplateNekoEdit)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8011539453).load(plr.name)
+	end)
+end
+coroutine.wrap(VPQWU_fake_script)()
+local function ADCMY_fake_script() -- TemplateNekoEdit.LocalScript 
+	local script = Instance.new('LocalScript', TemplateNekoEdit)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(ADCMY_fake_script)()
+local function RHUUM_fake_script() -- Empty.LocalScript 
+	local script = Instance.new('LocalScript', Empty)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(RHUUM_fake_script)()
+local function HPAJQ_fake_script() -- Empty.Script 
+	local script = Instance.new('Script', Empty)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(0).(plr.name)
+	end)
+end
+coroutine.wrap(HPAJQ_fake_script)()
+local function DPEFI_fake_script() -- BlackWaifu.Script 
+	local script = Instance.new('Script', BlackWaifu)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6099101528).waifuwu(plr.Name)
+	end)
+end
+coroutine.wrap(DPEFI_fake_script)()
+local function COGL_fake_script() -- BlackWaifu.LocalScript 
+	local script = Instance.new('LocalScript', BlackWaifu)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(COGL_fake_script)()
+local function HFCEZAU_fake_script() -- Aesthic.Script 
+	local script = Instance.new('Script', Aesthic)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7362894724).load(plr.Name)
+	end)
+end
+coroutine.wrap(HFCEZAU_fake_script)()
+local function FXRKY_fake_script() -- Aesthic.LocalScript 
+	local script = Instance.new('LocalScript', Aesthic)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(FXRKY_fake_script)()
+local function KVTLDKT_fake_script() -- YouravatarRose.Script 
+	local script = Instance.new('Script', YouravatarRose)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7208441481).load(plr.Name)
+	end)
+end
+coroutine.wrap(KVTLDKT_fake_script)()
+local function YQRZBP_fake_script() -- YouravatarRose.LocalScript 
+	local script = Instance.new('LocalScript', YouravatarRose)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(YQRZBP_fake_script)()
+local function YKFPFE_fake_script() -- CerberusNeko.Script 
+	local script = Instance.new('Script', CerberusNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8137216285).Ceberus(plr.name)
+	end)
+end
+coroutine.wrap(YKFPFE_fake_script)()
+local function BMTPR_fake_script() -- CerberusNeko.LocalScript 
+	local script = Instance.new('LocalScript', CerberusNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(BMTPR_fake_script)()
+local function ETKZ_fake_script() -- _123jl123.Script 
+	local script = Instance.new('Script', _123jl123)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8152007084).Jol(plr.name)
+	end)
+end
+coroutine.wrap(ETKZ_fake_script)()
+local function YQEAVXQ_fake_script() -- _123jl123.LocalScript 
+	local script = Instance.new('LocalScript', _123jl123)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(YQEAVXQ_fake_script)()
+local function YKCNVN_fake_script() -- Banganeko.Script 
+	local script = Instance.new('Script', Banganeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6748429291).HotNeko(plr.Name)
+	end)
+end
+coroutine.wrap(YKCNVN_fake_script)()
+local function HQKQVAC_fake_script() -- Banganeko.LocalScript 
+	local script = Instance.new('LocalScript', Banganeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(HQKQVAC_fake_script)()
+local function UEWAYTX_fake_script() -- Bunnygirl.Script 
+	local script = Instance.new('Script', Bunnygirl)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6685893769).Bunny(plr.name)
+	end)
+end
+coroutine.wrap(UEWAYTX_fake_script)()
+local function QQWIDO_fake_script() -- Bunnygirl.LocalScript 
+	local script = Instance.new('LocalScript', Bunnygirl)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(QQWIDO_fake_script)()
+local function TUFXTK_fake_script() -- BoiShesThicc.Script 
+	local script = Instance.new('Script', BoiShesThicc)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8129026823).Lol(plr.Name)
+	end)
+end
+coroutine.wrap(TUFXTK_fake_script)()
+local function INOX_fake_script() -- BoiShesThicc.LocalScript 
+	local script = Instance.new('LocalScript', BoiShesThicc)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(INOX_fake_script)()
+local function EAQTG_fake_script() -- MommyNEko.Script 
+	local script = Instance.new('Script', MommyNEko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6923219430).MommaNeko(plr.Name)
+	end)
+end
+coroutine.wrap(EAQTG_fake_script)()
+local function DCUOJP_fake_script() -- MommyNEko.LocalScript 
+	local script = Instance.new('LocalScript', MommyNEko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(DCUOJP_fake_script)()
+local function PNKXPJD_fake_script() -- SchoolGirlNeko.Script 
+	local script = Instance.new('Script', SchoolGirlNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6745210950).yes(plr.name)
+	end)
+end
+coroutine.wrap(PNKXPJD_fake_script)()
+local function HGXPXCN_fake_script() -- SchoolGirlNeko.LocalScript 
+	local script = Instance.new('LocalScript', SchoolGirlNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(HGXPXCN_fake_script)()
+local function VRIQYZR_fake_script() -- Nekodj.Script 
+	local script = Instance.new('Script', Nekodj)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7750911131).load(plr.name)
+	end)
+end
+coroutine.wrap(VRIQYZR_fake_script)()
+local function CZAPOAC_fake_script() -- Nekodj.LocalScript 
+	local script = Instance.new('LocalScript', Nekodj)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(CZAPOAC_fake_script)()
+local function OIYLC_fake_script() -- Calmdemonfurry.Script 
+	local script = Instance.new('Script', Calmdemonfurry)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6104917569).calmdemon(plr.name)
+	end)
+end
+coroutine.wrap(OIYLC_fake_script)()
+local function PIHN_fake_script() -- Calmdemonfurry.LocalScript 
+	local script = Instance.new('LocalScript', Calmdemonfurry)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(PIHN_fake_script)()
+local function DXBLGZ_fake_script() -- CozyNeko.Script 
+	local script = Instance.new('Script', CozyNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(5512815072).neko3(plr.name)
+	end)
+end
+coroutine.wrap(DXBLGZ_fake_script)()
+local function BCTBHA_fake_script() -- CozyNeko.LocalScript 
+	local script = Instance.new('LocalScript', CozyNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(BCTBHA_fake_script)()
+local function YGVV_fake_script() -- CleanNeko.Script 
+	local script = Instance.new('Script', CleanNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8249384365).Blue_Kit(plr.Name)
+	end)
+end
+coroutine.wrap(YGVV_fake_script)()
+local function JHGRPU_fake_script() -- CleanNeko.LocalScript 
+	local script = Instance.new('LocalScript', CleanNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(JHGRPU_fake_script)()
+local function IUELZ_fake_script() -- BunnyNeko.Script 
+	local script = Instance.new('Script', BunnyNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6920421314).nekouwu(plr.Name)
+	end)
+end
+coroutine.wrap(IUELZ_fake_script)()
+local function BDFM_fake_script() -- BunnyNeko.LocalScript 
+	local script = Instance.new('LocalScript', BunnyNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(BDFM_fake_script)()
+local function UMPHLC_fake_script() -- BabyBlue.Script 
+	local script = Instance.new('Script', BabyBlue)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(5689958856).nekouwu(plr.name)
+	end)
+end
+coroutine.wrap(UMPHLC_fake_script)()
+local function KDIHSG_fake_script() -- BabyBlue.LocalScript 
+	local script = Instance.new('LocalScript', BabyBlue)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(KDIHSG_fake_script)()
+local function UZAMVMI_fake_script() -- AnimeNeko.Script 
+	local script = Instance.new('Script', AnimeNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8159022673).Anime(plr.Name)
+	end)
+end
+coroutine.wrap(UZAMVMI_fake_script)()
+local function DFCVTB_fake_script() -- AnimeNeko.LocalScript 
+	local script = Instance.new('LocalScript', AnimeNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(DFCVTB_fake_script)()
+local function DLKAMTM_fake_script() -- PattoharoNeko.Script 
+	local script = Instance.new('Script', PattoharoNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(5245212319).pattoharoneko(plr.Name)
+	end)
+end
+coroutine.wrap(DLKAMTM_fake_script)()
+local function NBBRJZS_fake_script() -- PattoharoNeko.LocalScript 
+	local script = Instance.new('LocalScript', PattoharoNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(NBBRJZS_fake_script)()
+local function ZUTMF_fake_script() -- Furrzzie.Script 
+	local script = Instance.new('Script', Furrzzie)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8483717386).no(plr.Name)
+	end)
+end
+coroutine.wrap(ZUTMF_fake_script)()
+local function ODOWNP_fake_script() -- Furrzzie.LocalScript 
+	local script = Instance.new('LocalScript', Furrzzie)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(ODOWNP_fake_script)()
+local function FUHQHXC_fake_script() -- EGirl.Script 
+	local script = Instance.new('Script', EGirl)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6719666069).Girl(plr.name)
+	end)
+end
+coroutine.wrap(FUHQHXC_fake_script)()
+local function HZADEH_fake_script() -- EGirl.LocalScript 
+	local script = Instance.new('LocalScript', EGirl)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(HZADEH_fake_script)()
+local function YZBM_fake_script() -- Waifu.Script 
+	local script = Instance.new('Script', Waifu)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6098779689).waifuwu(plr.name)
+	end)
+end
+coroutine.wrap(YZBM_fake_script)()
+local function SUBFNV_fake_script() -- Waifu.LocalScript 
+	local script = Instance.new('LocalScript', Waifu)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(SUBFNV_fake_script)()
+local function DUUIGGF_fake_script() -- VND.Script 
+	local script = Instance.new('Script', VND)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(5475123749).VNDneko(plr.name)
+	end)
+end
+coroutine.wrap(DUUIGGF_fake_script)()
+local function GTRLS_fake_script() -- VND.LocalScript 
+	local script = Instance.new('LocalScript', VND)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(GTRLS_fake_script)()
+local function OGLZJ_fake_script() -- Kitty.Script 
+	local script = Instance.new('Script', Kitty)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(3927366328).kitty(plr.Name)
+	end)
+end
+coroutine.wrap(OGLZJ_fake_script)()
+local function GBVSYS_fake_script() -- Kitty.LocalScript 
+	local script = Instance.new('LocalScript', Kitty)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(GBVSYS_fake_script)()
+local function VFQA_fake_script() -- Alice.Script 
+	local script = Instance.new('Script', Alice)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(5636525743).die(plr.name)
+	end)
+end
+coroutine.wrap(VFQA_fake_script)()
+local function JITDS_fake_script() -- Alice.LocalScript 
+	local script = Instance.new('LocalScript', Alice)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(JITDS_fake_script)()
+local function WEOPII_fake_script() -- BlackandBlueNeko.Script 
+	local script = Instance.new('Script', BlackandBlueNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(4679462782).neko2(plr.Name)
+	end)
+end
+coroutine.wrap(WEOPII_fake_script)()
+local function YCIRSI_fake_script() -- BlackandBlueNeko.LocalScript 
+	local script = Instance.new('LocalScript', BlackandBlueNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(YCIRSI_fake_script)()
+local function HUUQW_fake_script() -- GreenNekobutLooksCool.Script 
+	local script = Instance.new('Script', GreenNekobutLooksCool)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7455369315).Jake(plr.name)
+	end)
+end
+coroutine.wrap(HUUQW_fake_script)()
+local function CBRNPL_fake_script() -- GreenNekobutLooksCool.LocalScript 
+	local script = Instance.new('LocalScript', GreenNekobutLooksCool)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(CBRNPL_fake_script)()
+local function XSLDVGE_fake_script() -- CleanNekobutWhat.Script 
+	local script = Instance.new('Script', CleanNekobutWhat)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(5215934369).yesanother(plr.name)
+	end)
+end
+coroutine.wrap(XSLDVGE_fake_script)()
+local function SDXJ_fake_script() -- CleanNekobutWhat.LocalScript 
+	local script = Instance.new('LocalScript', CleanNekobutWhat)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(SDXJ_fake_script)()
+local function UBKU_fake_script() -- Jotaro.Script 
+	local script = Instance.new('Script', Jotaro)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6055257105).JOJO(plr.name)
+	end)
+end
+coroutine.wrap(UBKU_fake_script)()
+local function AIEZ_fake_script() -- Jotaro.LocalScript 
+	local script = Instance.new('LocalScript', Jotaro)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(AIEZ_fake_script)()
+local function AIBUGT_fake_script() -- BlackNekoCasual.Script 
+	local script = Instance.new('Script', BlackNekoCasual)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7070574447).BlackNekoCasual(plr.Name)
+	end)
+end
+coroutine.wrap(AIBUGT_fake_script)()
+local function SDNQGX_fake_script() -- BlackNekoCasual.LocalScript 
+	local script = Instance.new('LocalScript', BlackNekoCasual)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(SDNQGX_fake_script)()
+local function PNIGSSM_fake_script() -- CuteBlueMaid.Script 
+	local script = Instance.new('Script', CuteBlueMaid)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7009241306).Sakuya(plr.name)
+	end)
+end
+coroutine.wrap(PNIGSSM_fake_script)()
+local function ULCSOII_fake_script() -- CuteBlueMaid.LocalScript 
+	local script = Instance.new('LocalScript', CuteBlueMaid)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(ULCSOII_fake_script)()
+local function QGKU_fake_script() -- EniTheFurry.Script 
+	local script = Instance.new('Script', EniTheFurry)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(5196973125).EniTheFurry(plr.Name)
+	end)
+end
+coroutine.wrap(QGKU_fake_script)()
+local function KEGRAU_fake_script() -- EniTheFurry.LocalScript 
+	local script = Instance.new('LocalScript', EniTheFurry)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(KEGRAU_fake_script)()
+local function FCBNOG_fake_script() -- Angel.Script 
+	local script = Instance.new('Script', Angel)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7660232804).AngelWingsNeko(plr.Name)
+	end)
+end
+coroutine.wrap(FCBNOG_fake_script)()
+local function RBLDXUN_fake_script() -- Angel.LocalScript 
+	local script = Instance.new('LocalScript', Angel)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(RBLDXUN_fake_script)()
+local function HDHBFUZ_fake_script() -- CutePinkNeko.Script 
+	local script = Instance.new('Script', CutePinkNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6191398873).loli(plr.name)
+	end)
+end
+coroutine.wrap(HDHBFUZ_fake_script)()
+local function DSKWRU_fake_script() -- CutePinkNeko.LocalScript 
+	local script = Instance.new('LocalScript', CutePinkNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(DSKWRU_fake_script)()
+local function NCHFPXZ_fake_script() -- Empty_2.LocalScript 
+	local script = Instance.new('LocalScript', Empty_2)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(NCHFPXZ_fake_script)()
+local function HUCNS_fake_script() -- Empty_2.Script 
+	local script = Instance.new('Script', Empty_2)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(0).(plr.name)
+	end)
+end
+coroutine.wrap(HUCNS_fake_script)()
+local function HPIMB_fake_script() -- Empty_3.LocalScript 
+	local script = Instance.new('LocalScript', Empty_3)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(HPIMB_fake_script)()
+local function PESZC_fake_script() -- Empty_3.Script 
+	local script = Instance.new('Script', Empty_3)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(0).(plr.name)
+	end)
+end
+coroutine.wrap(PESZC_fake_script)()
+local function MCXGTS_fake_script() -- StrawberryCow.Script 
+	local script = Instance.new('Script', StrawberryCow)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6928798431).Strawberry_Neko(plr.Name)
+	end)
+end
+coroutine.wrap(MCXGTS_fake_script)()
+local function MLAG_fake_script() -- StrawberryCow.LocalScript 
+	local script = Instance.new('LocalScript', StrawberryCow)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(MLAG_fake_script)()
+local function RSEGCKM_fake_script() -- Garcello.Script 
+	local script = Instance.new('Script', Garcello)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6915095657).GarcelloCat(plr.name)
+	end)
+end
+coroutine.wrap(RSEGCKM_fake_script)()
+local function WQNPJFF_fake_script() -- Garcello.LocalScript 
+	local script = Instance.new('LocalScript', Garcello)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(WQNPJFF_fake_script)()
+local function CNUSY_fake_script() -- ZeroTew.Script 
+	local script = Instance.new('Script', ZeroTew)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6696439179).zerotwo(plr.name)
+	end)
+end
+coroutine.wrap(CNUSY_fake_script)()
+local function POVCH_fake_script() -- ZeroTew.LocalScript 
+	local script = Instance.new('LocalScript', ZeroTew)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(POVCH_fake_script)()
+local function FCPEE_fake_script() -- idkwhattonamethislol.Script 
+	local script = Instance.new('Script', idkwhattonamethislol)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6014233152).load(plr.name)
+	end)
+end
+coroutine.wrap(FCPEE_fake_script)()
+local function PEVG_fake_script() -- idkwhattonamethislol.LocalScript 
+	local script = Instance.new('LocalScript', idkwhattonamethislol)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(PEVG_fake_script)()
+local function PHHURMS_fake_script() -- MoonBlue.Script 
+	local script = Instance.new('Script', MoonBlue)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6143561884).moon(plr.name)
+	end)
+end
+coroutine.wrap(PHHURMS_fake_script)()
+local function LDSDP_fake_script() -- MoonBlue.LocalScript 
+	local script = Instance.new('LocalScript', MoonBlue)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(LDSDP_fake_script)()
+local function ICBQE_fake_script() -- Moonred.Script 
+	local script = Instance.new('Script', Moonred)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6143511738).moon(plr.name)
+	end)
+end
+coroutine.wrap(ICBQE_fake_script)()
+local function KFOWD_fake_script() -- Moonred.LocalScript 
+	local script = Instance.new('LocalScript', Moonred)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(KFOWD_fake_script)()
+local function HMJFJ_fake_script() -- Moon.Script 
+	local script = Instance.new('Script', Moon)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(5825541492).moon(plr.name)
+	end)
+end
+coroutine.wrap(HMJFJ_fake_script)()
+local function AGQS_fake_script() -- Moon.LocalScript 
+	local script = Instance.new('LocalScript', Moon)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(AGQS_fake_script)()
+local function DYAUZJD_fake_script() -- MaidNeko2.Script 
+	local script = Instance.new('Script', MaidNeko2)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6884309818).Maid(plr.name)
+	end)
+end
+coroutine.wrap(DYAUZJD_fake_script)()
+local function EPUYUJD_fake_script() -- MaidNeko2.LocalScript 
+	local script = Instance.new('LocalScript', MaidNeko2)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(EPUYUJD_fake_script)()
+local function WEBUW_fake_script() -- MaidNeko3.Script 
+	local script = Instance.new('Script', MaidNeko3)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6955471878).neko(plr.name)
+	end)
+end
+coroutine.wrap(WEBUW_fake_script)()
+local function IPRBQ_fake_script() -- MaidNeko3.LocalScript 
+	local script = Instance.new('LocalScript', MaidNeko3)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(IPRBQ_fake_script)()
+local function TFPYQP_fake_script() -- MaidNeko.Script 
+	local script = Instance.new('Script', MaidNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7068658254).MaidNeko(plr.Name)
+	end)
+end
+coroutine.wrap(TFPYQP_fake_script)()
+local function EPBQBV_fake_script() -- MaidNeko.LocalScript 
+	local script = Instance.new('LocalScript', MaidNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(EPBQBV_fake_script)()
+local function AZLHB_fake_script() -- CuteNeko.Script 
+	local script = Instance.new('Script', CuteNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(5679036702).UWU(plr.name)
+	end)
+end
+coroutine.wrap(AZLHB_fake_script)()
+local function CNGDHZ_fake_script() -- CuteNeko.LocalScript 
+	local script = Instance.new('LocalScript', CuteNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(CNGDHZ_fake_script)()
+local function PTERM_fake_script() -- MaidFnfGF.Script 
+	local script = Instance.new('Script', MaidFnfGF)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7002743820).GF(plr.name)
+	end)
+end
+coroutine.wrap(PTERM_fake_script)()
+local function JDESRPJ_fake_script() -- MaidFnfGF.LocalScript 
+	local script = Instance.new('LocalScript', MaidFnfGF)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(JDESRPJ_fake_script)()
+local function HTGRZFO_fake_script() -- CuteBlueMaid_2.Script 
+	local script = Instance.new('Script', CuteBlueMaid_2)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7009241306).Sakuya(plr.name)
+	end)
+end
+coroutine.wrap(HTGRZFO_fake_script)()
+local function THFWX_fake_script() -- CuteBlueMaid_2.LocalScript 
+	local script = Instance.new('LocalScript', CuteBlueMaid_2)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(THFWX_fake_script)()
+local function MHVP_fake_script() -- MaidCommander.Script 
+	local script = Instance.new('Script', MaidCommander)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7110974480).MaidCommander(plr.Name)
+	end)
+end
+coroutine.wrap(MHVP_fake_script)()
+local function DHKN_fake_script() -- MaidCommander.LocalScript 
+	local script = Instance.new('LocalScript', MaidCommander)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(DHKN_fake_script)()
+local function FMPXDFG_fake_script() -- SwatNekoP.Script 
+	local script = Instance.new('Script', SwatNekoP)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8118911295).Swat(plr.name)
+	end)
+end
+coroutine.wrap(FMPXDFG_fake_script)()
+local function LDQAKW_fake_script() -- SwatNekoP.LocalScript 
+	local script = Instance.new('LocalScript', SwatNekoP)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(LDQAKW_fake_script)()
+local function ALIQMFJ_fake_script() -- NekoKiller.Script 
+	local script = Instance.new('Script', NekoKiller)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6068634681).nekokiller(plr.name)
+	end)
+end
+coroutine.wrap(ALIQMFJ_fake_script)()
+local function ZOGG_fake_script() -- NekoKiller.LocalScript 
+	local script = Instance.new('LocalScript', NekoKiller)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(ZOGG_fake_script)()
+local function KXPXV_fake_script() -- BearNeko.Script 
+	local script = Instance.new('Script', BearNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7059107135).testing(plr.name)
+	end)
+end
+coroutine.wrap(KXPXV_fake_script)()
+local function UFIL_fake_script() -- BearNeko.LocalScript 
+	local script = Instance.new('LocalScript', BearNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(UFIL_fake_script)()
+local function ODHEP_fake_script() -- WhiteNeko.Script 
+	local script = Instance.new('Script', WhiteNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(5610865786).muwu(plr.Name)
+	end)
+end
+coroutine.wrap(ODHEP_fake_script)()
+local function RKKM_fake_script() -- WhiteNeko.LocalScript 
+	local script = Instance.new('LocalScript', WhiteNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(RKKM_fake_script)()
+local function JJZNWPL_fake_script() -- Nekobutsomethingaintright.Script 
+	local script = Instance.new('Script', Nekobutsomethingaintright)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6145229312).Test(plr.name)
+	end)
+end
+coroutine.wrap(JJZNWPL_fake_script)()
+local function CXNWMJU_fake_script() -- Nekobutsomethingaintright.LocalScript 
+	local script = Instance.new('LocalScript', Nekobutsomethingaintright)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(CXNWMJU_fake_script)()
+local function UVKOWG_fake_script() -- Puro.Script 
+	local script = Instance.new('Script', Puro)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6996018192).Puro(plr.Name)
+	end)
+end
+coroutine.wrap(UVKOWG_fake_script)()
+local function JKGUA_fake_script() -- Puro.LocalScript 
+	local script = Instance.new('LocalScript', Puro)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(JKGUA_fake_script)()
+local function LDDEO_fake_script() -- Pilot.Script 
+	local script = Instance.new('Script', Pilot)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6063571831).pilot(plr.name)
+	end)
+end
+coroutine.wrap(LDDEO_fake_script)()
+local function IFYKRXD_fake_script() -- Pilot.LocalScript 
+	local script = Instance.new('LocalScript', Pilot)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(IFYKRXD_fake_script)()
+local function RZGDDLT_fake_script() -- PartyNekoCasual.Script 
+	local script = Instance.new('Script', PartyNekoCasual)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7073794870).PartyNekoCasual(plr.name)
+	end)
+end
+coroutine.wrap(RZGDDLT_fake_script)()
+local function MQIROB_fake_script() -- PartyNekoCasual.LocalScript 
+	local script = Instance.new('LocalScript', PartyNekoCasual)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(MQIROB_fake_script)()
+local function JKAL_fake_script() -- MaleNeko.Script 
+	local script = Instance.new('Script', MaleNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8014567689).Male(plr.name)
+	end)
+end
+coroutine.wrap(JKAL_fake_script)()
+local function LMQFGHN_fake_script() -- MaleNeko.LocalScript 
+	local script = Instance.new('LocalScript', MaleNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(LMQFGHN_fake_script)()
+local function PADD_fake_script() -- Ankha.Script 
+	local script = Instance.new('Script', Ankha)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8095466105).Ankha(plr.name)
+	end)
+end
+coroutine.wrap(PADD_fake_script)()
+local function GLZYJ_fake_script() -- Ankha.LocalScript 
+	local script = Instance.new('LocalScript', Ankha)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(GLZYJ_fake_script)()
+local function SGBXWD_fake_script() -- Protogen.Script 
+	local script = Instance.new('Script', Protogen)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7861792862).protogen(plr.name)
+	end)
+end
+coroutine.wrap(SGBXWD_fake_script)()
+local function LFEMWRE_fake_script() -- Protogen.LocalScript 
+	local script = Instance.new('LocalScript', Protogen)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(LFEMWRE_fake_script)()
+local function YOCQOXT_fake_script() -- RedFurrzzie.Script 
+	local script = Instance.new('Script', RedFurrzzie)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(5078107884).no(plr.name)
+	end)
+end
+coroutine.wrap(YOCQOXT_fake_script)()
+local function OSCU_fake_script() -- RedFurrzzie.LocalScript 
+	local script = Instance.new('LocalScript', RedFurrzzie)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(OSCU_fake_script)()
+local function NLDFXNH_fake_script() -- NekogotDrip.Script 
+	local script = Instance.new('Script', NekogotDrip)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8137641045).Drip(plr.name)
+	end)
+end
+coroutine.wrap(NLDFXNH_fake_script)()
+local function QPRZH_fake_script() -- NekogotDrip.LocalScript 
+	local script = Instance.new('LocalScript', NekogotDrip)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(QPRZH_fake_script)()
+local function YACOGWW_fake_script() -- BunnyGirlSenpai.Script 
+	local script = Instance.new('Script', BunnyGirlSenpai)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6116526975).waifuwu(plr.name)
+	end)
+end
+coroutine.wrap(YACOGWW_fake_script)()
+local function MOGVN_fake_script() -- BunnyGirlSenpai.LocalScript 
+	local script = Instance.new('LocalScript', BunnyGirlSenpai)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(MOGVN_fake_script)()
+local function BGWTP_fake_script() -- Military.Script 
+	local script = Instance.new('Script', Military)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8455900556).Military(plr.name)
+	end)
+end
+coroutine.wrap(BGWTP_fake_script)()
+local function ISDB_fake_script() -- Military.LocalScript 
+	local script = Instance.new('LocalScript', Military)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(ISDB_fake_script)()
+local function HWJB_fake_script() -- KangSaebyeok.Script 
+	local script = Instance.new('Script', KangSaebyeok)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8456316776).Kang_Sae_byeok(plr.name)
+	end)
+end
+coroutine.wrap(HWJB_fake_script)()
+local function VUTTEEU_fake_script() -- KangSaebyeok.LocalScript 
+	local script = Instance.new('LocalScript', KangSaebyeok)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(VUTTEEU_fake_script)()
+local function FOBVXM_fake_script() -- SafeTemplateNeko.Script 
+	local script = Instance.new('Script', SafeTemplateNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8944962061).urcodehere(plr.name)
+	end)
+end
+coroutine.wrap(FOBVXM_fake_script)()
+local function ABTYL_fake_script() -- SafeTemplateNeko.LocalScript 
+	local script = Instance.new('LocalScript', SafeTemplateNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(ABTYL_fake_script)()
+local function GEVDBBN_fake_script() -- MommyNeko.Script 
+	local script = Instance.new('Script', MommyNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8990469731).Mom(plr.name)
+	end)
+end
+coroutine.wrap(GEVDBBN_fake_script)()
+local function AQKN_fake_script() -- MommyNeko.LocalScript 
+	local script = Instance.new('LocalScript', MommyNeko)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(AQKN_fake_script)()
+local function LNUZTMT_fake_script() -- Empty_4.LocalScript 
+	local script = Instance.new('LocalScript', Empty_4)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(LNUZTMT_fake_script)()
+local function VDDFZ_fake_script() -- Empty_4.Script 
+	local script = Instance.new('Script', Empty_4)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(0).(plr.name)
+	end)
+end
+coroutine.wrap(VDDFZ_fake_script)()
+local function ERVRQHV_fake_script() -- Empty_5.LocalScript 
+	local script = Instance.new('LocalScript', Empty_5)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(ERVRQHV_fake_script)()
+local function WHIBRSP_fake_script() -- Empty_5.Script 
+	local script = Instance.new('Script', Empty_5)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(0).(plr.name)
+	end)
+end
+coroutine.wrap(WHIBRSP_fake_script)()
+local function UQFLDQV_fake_script() -- Empty_6.LocalScript 
+	local script = Instance.new('LocalScript', Empty_6)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(UQFLDQV_fake_script)()
+local function MCWBA_fake_script() -- Empty_6.Script 
+	local script = Instance.new('Script', Empty_6)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(0).(plr.name)
+	end)
+end
+coroutine.wrap(MCWBA_fake_script)()
+local function NRIO_fake_script() -- Empty_7.LocalScript 
+	local script = Instance.new('LocalScript', Empty_7)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(NRIO_fake_script)()
+local function YVCEX_fake_script() -- Empty_7.Script 
+	local script = Instance.new('Script', Empty_7)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(0).(plr.name)
+	end)
+end
+coroutine.wrap(YVCEX_fake_script)()
+local function DDTFPL_fake_script() -- Empty_8.LocalScript 
+	local script = Instance.new('LocalScript', Empty_8)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(DDTFPL_fake_script)()
+local function FJBQ_fake_script() -- Empty_8.Script 
+	local script = Instance.new('Script', Empty_8)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(0).(plr.name)
+	end)
+end
+coroutine.wrap(FJBQ_fake_script)()
+local function PCMWUC_fake_script() -- Empty_9.LocalScript 
+	local script = Instance.new('LocalScript', Empty_9)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(PCMWUC_fake_script)()
+local function VWRS_fake_script() -- Empty_9.Script 
+	local script = Instance.new('Script', Empty_9)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(0).(plr.name)
+	end)
+end
+coroutine.wrap(VWRS_fake_script)()
+local function UAFPR_fake_script() -- Main.Make GUI Draggable 
+	local script = Instance.new('LocalScript', Main)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local UserInputService = game:GetService("UserInputService")
+	
+	local gui = script.Parent
+	
+	local dragging
+	local dragInput
+	local dragStart
+	local startPos
+	
+	local function update(input)
+		local delta = input.Position - dragStart
+		gui.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+	end
+	
+	gui.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = true
+			dragStart = input.Position
+			startPos = gui.Position
+	
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragging = false
+				end
+			end)
+		end
+	end)
+	
+	gui.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			dragInput = input
+		end
+	end)
+	
+	UserInputService.InputChanged:Connect(function(input)
+		if input == dragInput and dragging then
+			update(input)
+		end
+	end)
+end
+coroutine.wrap(UAFPR_fake_script)()
+local function NFTGQE_fake_script() -- R6.Server 
+	local script = Instance.new('Script', R6)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(3041175937):r6(plr.Name)
+	end)
+end
+coroutine.wrap(NFTGQE_fake_script)()
+local function ZGSFG_fake_script() -- R6.CircleClickExample 
+	local script = Instance.new('LocalScript', R6)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local Mouse = game.Players.LocalPlayer:GetMouse()
+	
+	local function CircleClick(Button, X, Y)
+			
+			Button.ClipsDescendants = true
+			
+			local Circle = script:WaitForChild("Circle"):Clone()
+				Circle.Parent = Button
+				local NewX = X - Circle.AbsolutePosition.X
+				local NewY = Y - Circle.AbsolutePosition.Y
+				Circle.Position = UDim2.new(0, NewX, 0, NewY)
+			
+			local Size = 0
+				if Button.AbsoluteSize.X > Button.AbsoluteSize.Y then
+					 Size = Button.AbsoluteSize.X*1.5
+				elseif Button.AbsoluteSize.X < Button.AbsoluteSize.Y then
+					 Size = Button.AbsoluteSize.Y*1.5
+				elseif Button.AbsoluteSize.X == Button.AbsoluteSize.Y then																																																																														print("This place uses a model by Come0n.") --please do not remove!
+					Size = Button.AbsoluteSize.X*1.5
+				end
+			
+			local Time = 0.5
+				Circle:TweenSizeAndPosition(UDim2.new(0, Size, 0, Size), UDim2.new(0.5, -Size/2, 0.5, -Size/2), "Out", "Quad", Time, false, nil)
+				for i=1,10 do
+					Circle.ImageTransparency = Circle.ImageTransparency + 0.01
+					wait(Time/10)
+				end
+				Circle:Destroy()
+	end
+	
+	
+	script.Parent.MouseButton1Down:connect(function()
+		CircleClick(script.Parent, Mouse.X, Mouse.Y) 
+	end)
+	
+	
+	
+end
+coroutine.wrap(ZGSFG_fake_script)()
+local function ZWFEQ_fake_script() -- R6.CircleClickExample 
+	local script = Instance.new('LocalScript', R6)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local Mouse = game.Players.LocalPlayer:GetMouse()
+	
+	local function CircleClick(Button, X, Y)
+			
+			Button.ClipsDescendants = true
+			
+			local Circle = script:WaitForChild("Circle"):Clone()
+				Circle.Parent = Button
+				local NewX = X - Circle.AbsolutePosition.X
+				local NewY = Y - Circle.AbsolutePosition.Y
+				Circle.Position = UDim2.new(0, NewX, 0, NewY)
+			
+			local Size = 0
+				if Button.AbsoluteSize.X > Button.AbsoluteSize.Y then
+					 Size = Button.AbsoluteSize.X*1.5
+				elseif Button.AbsoluteSize.X < Button.AbsoluteSize.Y then
+					 Size = Button.AbsoluteSize.Y*1.5
+				elseif Button.AbsoluteSize.X == Button.AbsoluteSize.Y then																																																																														print("This place uses a model by Come0n.") --please do not remove!
+					Size = Button.AbsoluteSize.X*1.5
+				end
+			
+			local Time = 0.5
+				Circle:TweenSizeAndPosition(UDim2.new(0, Size, 0, Size), UDim2.new(0.5, -Size/2, 0.5, -Size/2), "Out", "Quad", Time, false, nil)
+				for i=1,10 do
+					Circle.ImageTransparency = Circle.ImageTransparency + 0.01
+					wait(Time/10)
+				end
+				Circle:Destroy()
+	end
+	
+	
+	script.Parent.MouseButton1Down:connect(function()
+		CircleClick(script.Parent, Mouse.X, Mouse.Y) 
+	end)
+	
+	
+	
+end
+coroutine.wrap(ZWFEQ_fake_script)()
+local function PDYWRYU_fake_script() -- R6.Cilent 
+	local script = Instance.new('LocalScript', R6)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(PDYWRYU_fake_script)()
+local function POGQTPL_fake_script() -- R6.LocalScript 
+	local script = Instance.new('LocalScript', R6)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	
+	script.Parent.MouseButton1Click:Connect(function()
+	script.Parent.Parent:WaitForChild("RemoteEvent"):FireServer("r6")
+	end)
+end
+coroutine.wrap(POGQTPL_fake_script)()
+local function KABOR_fake_script() -- Respawn.ServerEvents 
+	local script = Instance.new('Script', Respawn)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Respawn.OnServerEvent:connect(function(plr)
+		plr:LoadCharacter()
+	end)
+end
+coroutine.wrap(KABOR_fake_script)()
+local function IKPNW_fake_script() -- Respawn.CircleClickExample 
+	local script = Instance.new('LocalScript', Respawn)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local Mouse = game.Players.LocalPlayer:GetMouse()
+	
+	local function CircleClick(Button, X, Y)
+			
+			Button.ClipsDescendants = true
+			
+			local Circle = script:WaitForChild("Circle"):Clone()
+				Circle.Parent = Button
+				local NewX = X - Circle.AbsolutePosition.X
+				local NewY = Y - Circle.AbsolutePosition.Y
+				Circle.Position = UDim2.new(0, NewX, 0, NewY)
+			
+			local Size = 0
+				if Button.AbsoluteSize.X > Button.AbsoluteSize.Y then
+					 Size = Button.AbsoluteSize.X*1.5
+				elseif Button.AbsoluteSize.X < Button.AbsoluteSize.Y then
+					 Size = Button.AbsoluteSize.Y*1.5
+				elseif Button.AbsoluteSize.X == Button.AbsoluteSize.Y then																																																																														print("This place uses a model by Come0n.") --please do not remove!
+					Size = Button.AbsoluteSize.X*1.5
+				end
+			
+			local Time = 0.5
+				Circle:TweenSizeAndPosition(UDim2.new(0, Size, 0, Size), UDim2.new(0.5, -Size/2, 0.5, -Size/2), "Out", "Quad", Time, false, nil)
+				for i=1,10 do
+					Circle.ImageTransparency = Circle.ImageTransparency + 0.01
+					wait(Time/10)
+				end
+				Circle:Destroy()
+	end
+	
+	
+	script.Parent.MouseButton1Down:connect(function()
+		CircleClick(script.Parent, Mouse.X, Mouse.Y) 
+	end)
+	
+	
+	
+end
+coroutine.wrap(IKPNW_fake_script)()
+local function WUDC_fake_script() -- Respawn.LocalScript 
+	local script = Instance.new('LocalScript', Respawn)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+				script.Parent.ServerEvents.Respawn:FireServer()
+	end)
+end
+coroutine.wrap(WUDC_fake_script)()
+local function VSXFD_fake_script() -- TargetSpawner.LocalScript 
+	local script = Instance.new('LocalScript', TargetSpawner)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(VSXFD_fake_script)()
+local function FRQZ_fake_script() -- TargetSpawner.Script 
+	local script = Instance.new('Script', TargetSpawner)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7809934520).load(plr.Name)
+	end)
+end
+coroutine.wrap(FRQZ_fake_script)()
+local function QJKDP_fake_script() -- TargetSpawner.Gui Removeal Script 
+	local script = Instance.new('Script', TargetSpawner)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	while true do
+	wait(9) ----- For how long your gui to stay on your screen (Edit if you want)
+	script.Parent:Remove() 
+	end
+	
+	
+end
+coroutine.wrap(QJKDP_fake_script)()
+local function EQMXMYT_fake_script() -- NekoControlsGUI.LocalScript 
+	local script = Instance.new('LocalScript', NekoControlsGUI)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+	
+end
+coroutine.wrap(EQMXMYT_fake_script)()
+local function NXVWMR_fake_script() -- NekoControlsGUI.Script 
+	local script = Instance.new('Script', NekoControlsGUI)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(7902694773).load(plr.Name)
+	end)
+end
+coroutine.wrap(NXVWMR_fake_script)()
+local function EPMTWU_fake_script() -- Main.Load 
+	local script = Instance.new('LocalScript', Main)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	script.Parent.Position = UDim2.new(0.631, 0),(0.085, 0)
+	wait(0.5)
+	script.Parent:TweenPosition(UDim2.new(0.422, -125,0.337, -25),"Out",1)
+end
+coroutine.wrap(EPMTWU_fake_script)()
+local function GKHJFI_fake_script() -- OpenClose.Script 
+	local script = Instance.new('Script', OpenClose)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local open = script.Parent.Parent.Main
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		if open.Visible == false then
+			open.Visible = true else
+			open.Visible = false
+		end
+	end)
+	
+	function close()
+		if open.Visible == true then
+			script.Parent.Text = "Close" else
+			script.Parent.Text = "Open"
+		end
+	end
+	
+	while wait(nil) do
+		close()
+	end
+end
+coroutine.wrap(GKHJFI_fake_script)()
